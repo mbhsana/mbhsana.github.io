@@ -3,10 +3,9 @@
 Site Quarto bilingue (EN à la racine, FR dans `fr/`), publié sur GitHub Pages.
 
 - Chaque `git push` sur `main` reconstruit et publie le site (`.github/workflows/publish.yml`).
-- Reconstruction automatique le 1er de chaque mois pour rafraîchir les publications.
-- `scripts/hal_publications.py` régénère `_hal_list.md` depuis l'idHAL `sana-ben-hamida`
-  (communications uniquement ; revues, ouvrages et chapitres sont tenus à la main dans
-  `publications.qmd` et `fr/publications.qmd`).
+- `_hal_list.md` (communications et workshops) est tenu à la main : HAL ne contient que 12 des 31
+  communications (novembre 2026). `scripts/hal_publications.py` pourra le régénérer depuis l'idHAL
+  `sana-ben-hamida` une fois HAL complet (réactiver `pre-render` dans `_quarto.yml`).
 
 ## Règles
 

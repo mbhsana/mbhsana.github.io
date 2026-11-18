@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: _site
-  pre-render: python3 scripts/hal_publications.py
+  # pre-render: python3 scripts/hal_publications.py   # à réactiver quand HAL sera complet
 
 website:
   title: "Sana Ben Hamida"

@@ -38,7 +38,7 @@ def authors(names):
     for n in names:
         parts = n.split()
         short = n if len(parts) < 2 else f"{parts[0][0]}. {' '.join(parts[1:])}"
-        out.append(f"**{short}**" if "Ben Hamida" in n else short)
+        out.append(f"**{short}**" if ("Ben Hamida" in n or "Ben Hmida" in n) else short)
     return ", ".join(out)
 
 
