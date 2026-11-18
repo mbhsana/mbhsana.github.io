@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: python3 scripts/hal_publications.py
+
+website:
+  title: "Sana Ben Hamida"
+  site-url: "https://mbhsana.github.io"
+  description: "Evolutionary machine learning, scalable genetic programming, ML for marine biodiversity and health."
+  page-footer:
+    left: "© Sana Ben Hamida · Université Paris Nanterre & LAMSADE"
+    right: "Last update / Mise à jour : 2026-11"
+  navbar:
+    title: "Sana Ben Hamida"
+    right:
+      - text: "EN"
+        href: index.qmd
+      - text: "FR"
+        href: fr/index.qmd
+  sidebar:
+    - id: en
+      style: docked
+      contents:
+        - text: "Home"
+          href: index.qmd
+        - research.qmd
+        - projects.qmd
+        - publications.qmd
+        - supervision.qmd
+        - teaching.qmd
+        - cv.qmd
+      tools:
+        - icon: person-badge
+          href: https://orcid.org/0000-0003-4202-613X
+          text: ORCID
+        - icon: mortarboard
+          href: https://scholar.google.com/citations?user=mVT5Lk0AAAAJ
+          text: Google Scholar
+    - id: fr
+      style: docked
+      contents:
+        - text: "Accueil"
+          href: fr/index.qmd
+        - fr/recherche.qmd
+        - fr/projets.qmd
+        - fr/publications.qmd
+        - fr/encadrement.qmd
+        - fr/enseignement.qmd
+        - fr/cv.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-after-body: analytics.html
+    toc: false
+    lang: en

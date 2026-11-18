@@ -1,0 +1,21 @@
+---
+title: "Curriculum vitae"
+---
+
+[Download the CV (PDF)](files/CV_SanaBenHamida_EN.pdf) <!-- TODO: CV court EN -->
+
+## Positions
+
+- **Since 2003** — Associate Professor (Maîtresse de conférences), Université Paris Nanterre; *hors classe* since 2024.
+- **Since 2014** — Associate researcher, [LAMSADE](https://www.lamsade.dauphine.fr) (UMR CNRS 7243), Université Paris Dauphine–PSL.
+- **2004–2010** — Associate Professor, ESTI (now ENICarthage), Tunis.
+- **2002–2004** — Postdoctoral researcher, then research consultant, Crédit Commercial de France (HSBC group), Paris.
+- **2000–2002** — Teaching and research assistant (ATER), IUT de Villetaneuse, Université Paris 13.
+
+## Education
+
+- **2024** — Habilitation (HDR) in computer science, Université Paris Dauphine–PSL.
+  *Evolutionary Algorithms as Advanced Machine Learning Techniques — Applications and Scaling for Large Data Sets.* [tel-05787780](https://hal.science/tel-05787780)
+- **2001** — PhD in computer science, École polytechnique (CMAP), advisor: Marc Schoenauer.
+  *Evolutionary algorithms: constraint handling and real-world application.* [tel-03086421](https://hal.science/tel-03086421)
+- **1997** — DEA (MSc), Université Paris 7 and INSTN (CEA Saclay).

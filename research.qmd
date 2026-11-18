@@ -1,0 +1,63 @@
+---
+title: "Research"
+---
+
+**Keywords:** evolutionary computation, genetic programming, evolutionary machine learning,
+active learning, large-scale and imbalanced data, explainable AI, graph-based learning,
+environmental DNA, marine microbiome, gut microbiome, inflammatory bowel diseases (Crohn's disease),
+multimodal learning, knowledge graphs, bioinformatics, constrained optimization.
+
+## Current research
+
+### 1. Scalable evolutionary machine learning
+
+Genetic programming (GP) for the classification of large data sets: active and adaptive
+sampling of training data, parallelization with Apache Spark, hybrid and ensemble approaches.
+
+- Adaptive sampling for active learning with genetic programming — *Cognitive Systems Research*, 2021. [doi](https://doi.org/10.1016/j.cogsys.2020.08.008)
+- Algorithm vs processing manipulation to scale genetic programming to big data mining — Springer, 2023. [doi](https://doi.org/10.1007/978-981-19-3888-7_7)
+- Genetic programming over Spark for Higgs boson classification — BIS 2019. [doi](https://doi.org/10.1007/978-3-030-20485-3_23)
+- Code: [gp-spark](https://github.com/hhmida/gp-spark) (H. Hmida); [EVAS-GP](https://github.com/mbhsana/EVAS-GP) — population-guided active sampling for genetic programming on highly imbalanced data.
+
+### 2. Machine learning for marine biodiversity
+
+Predicting the ecological quality of marine environments from environmental DNA (metabarcoding)
+and microbiome data; supervised, unsupervised and semi-supervised learning on graphs; ecological
+interpretability of models.
+
+- Explainable AI for marine ecological quality prediction — recommended by [*PCI Genomics*](https://genomics.peercommunityin.org), 2026. [hal-05046103](https://hal.science/hal-05046103)
+- (AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment — ECAI 2025 workshop AISE. [doi](https://doi.org/10.6084/m9.figshare.30339076)
+- PhD thesis of H. Braikia (2026) — [defence page](https://dauphine.psl.eu/formations/doctorat/soutenances/soutenance/application-de-techniques-dapprentissage-automatique-multi-paradigmes-pour-predire-la-qualite-ecologique-des-environnements-marins-a-laide-de-donnees-dadn-environnemental).
+
+### 3. Machine learning for health: gut microbiome and inflammatory bowel diseases
+
+Early prediction and longitudinal monitoring of inflammatory bowel diseases (IBD), in particular
+Crohn's disease, from gut microbiome data and clinical biomarkers: preprocessing and dimensionality
+reduction of compositional microbiome data, explainable multimodal learning, knowledge graphs,
+and learning from imbalanced medical data. In collaboration with the RISC laboratory (ENIT, Tunis).
+
+- Optimized preprocessing for IBD classification using microbiome data — ICIKS 2025.
+- ACTIVE SMOTE for imbalanced medical data classification — ICIKS 2023 <span class="award">Best Paper Award</span> [doi](https://doi.org/10.1007/978-3-031-51664-1_6)
+- Ongoing PhD of S. Sabbehi: hybrid multimodal machine learning and knowledge graphs for Crohn's disease.
+
+### 4. Evolutionary algorithms for biological networks
+
+Detection of communities of variable sizes in protein–protein interaction (PPI) networks,
+combining semantic similarity (Gene Ontology) and topology.
+
+- GA-PPI-Net: a genetic algorithm for community detection in PPI networks — Springer CCIS, 2020. [doi](https://doi.org/10.1007/978-3-030-52991-8_7)
+- Genetic algorithm for community detection in biological networks — KES 2018 <span class="award">Best Student Paper Award</span> [doi](https://doi.org/10.1016/j.procs.2018.07.233)
+
+## Earlier research
+
+- **Symbolic regression and computational finance** — option model calibration and implied volatility
+  forecasting with evolutionary algorithms and GP; nested Monte Carlo expression discovery.
+  *Journal of Computational Finance* 2005 (with R. Cont, [doi](https://doi.org/10.2139/ssrn.546882));
+  *Computational Intelligence* 2016 ([doi](https://doi.org/10.1111/coin.12057)).
+- **Constrained and combinatorial evolutionary optimization** — adaptive constraint handling (ASCHEA,
+  PPSN 2000 and CEC 2002, with M. Schoenauer), genetic operators for vehicle routing, workflow scheduling in the cloud.
+  PhD thesis: [tel-03086421](https://hal.science/tel-03086421).
+
+## Collaborations
+
+See [Projects & collaborations](projects.qmd).

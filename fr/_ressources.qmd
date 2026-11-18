@@ -1,0 +1,22 @@
+---
+title: "Ressources"
+subtitle: "Introductions à l'apprentissage évolutionnaire"
+lang: fr
+---
+
+Supports pédagogiques et courtes introductions à des notions de calcul évolutionnaire et
+d'apprentissage automatique évolutionnaire. Sauf mention contraire, les ressources sont partagées
+sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
+
+## Introductions
+
+*Bientôt disponibles :*
+
+- **Les algorithmes évolutionnaires en 20 minutes** — la boucle évolutionnaire générique, représentations, variation et sélection.
+- **La programmation génétique pour la régression symbolique et la classification interprétable.**
+- **Passer la programmation génétique à l'échelle** — échantillonnage actif ou parallélisation avec Spark.
+
+## Pour aller plus loin
+
+- A. Petrowski, S. Ben Hamida. *Evolutionary Algorithms*. ISTE–Wiley, 2017.
+- [DEAP](https://github.com/DEAP/deap) — Distributed Evolutionary Algorithms in Python.

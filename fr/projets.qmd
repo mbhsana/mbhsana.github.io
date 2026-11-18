@@ -1,0 +1,34 @@
+---
+title: "Projets et collaborations"
+lang: fr
+---
+
+## En cours
+
+- **Consortium BleuAct** — *Le bleu en action : pour une production halio-alimentaire éco-innovante et durable* (CDR2024ES01, Tunisie).
+  Membre du comité scientifique, depuis 2025.
+- **Apprentissage automatique pour le microbiote intestinal et les MICI** — collaboration avec le laboratoire RISC
+  (ENIT, Université de Tunis El Manar), depuis 2024 : co-encadrement de mémoires de recherche, publications communes (ICIKS 2025)
+  et thèse en cotutelle (Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).
+- **Apprentissage automatique pour la qualité écologique marine à partir de l'ADN environnemental** (depuis 2022) — lancé avec un contrat doctoral
+  Dauphine–PSL (thèse de H. Braikia, soutenue en 2026, avec M. Rukoz) ; prépublication recommandée par PCI Genomics ; travaux et publications en cours.
+- **Programmation génétique à grande échelle et détection de communautés dans les réseaux biologiques** (depuis 2015) —
+  deux thèses en cotutelle entre Dauphine–PSL (LAMSADE) et l'Université de Tunis El Manar (LIPAH, A. Borgi), soutenues en 2019 et 2022 ; travaux et publications en cours.
+- **Thèse CIFRE avec AAAdata** (2024–2027) — objectifs européens de décarbonation du secteur automobile ;
+  codirection avec EconomiX (Université Paris Nanterre).
+
+## Projets et contrats passés
+
+- **DIGITAL-SKILLS** (2018–2019) — projet d'innovation pédagogique financé par la ComUE Université Paris Lumières (AMI) ; co-porteuse.
+- **Tournées de véhicules et opérateurs génétiques** — collaboration de recherche avec InstaDeep (ICSOFT 2020).
+- **Calibration évolutionnaire de modèles d'options** (2002–2004) — collaboration de recherche avec le Crédit Commercial de France
+  (groupe HSBC), avec R. Cont ; prix de l'Institut Europlace de Finance.
+- **Réseau européen INGENET** (*Networked Industrial Design and Control Applications using Genetic Algorithms and Evolution Strategies*, 1998–2000) —
+  représentante du CMAP, École polytechnique.
+
+## Collaborations
+
+- **Académiques :** [LAMSADE](https://www.lamsade.dauphine.fr), Dauphine–PSL (M. Rukoz, T. Cazenave) ;
+  LIPAH, Université de Tunis El Manar (A. Borgi) ; laboratoire RISC, ENIT (S. Belghith, W. Mefteh) ;
+  EconomiX, Université Paris Nanterre (M. Baudry) ; MODESFI, Université de Sfax (F. Abid).
+- **Industrielles :** AAAdata, InstaDeep, CCF–HSBC.

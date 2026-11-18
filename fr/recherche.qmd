@@ -1,0 +1,66 @@
+---
+title: "Recherche"
+lang: fr
+---
+
+**Mots-clés :** calcul évolutionnaire, programmation génétique, apprentissage automatique évolutionnaire,
+apprentissage actif, données massives et déséquilibrées, IA explicable, apprentissage sur graphes,
+ADN environnemental, microbiome marin, microbiote intestinal, maladies inflammatoires chroniques de
+l'intestin (maladie de Crohn), apprentissage multimodal, graphes de connaissances, bio-informatique,
+optimisation sous contraintes.
+
+## Recherches actuelles
+
+### 1. Apprentissage évolutionnaire à grande échelle
+
+Programmation génétique (PG) pour la classification de données massives : échantillonnage actif et
+adaptatif des données d'apprentissage, parallélisation avec Apache Spark, approches hybrides et d'ensemble.
+
+- Adaptive sampling for active learning with genetic programming — *Cognitive Systems Research*, 2021. [doi](https://doi.org/10.1016/j.cogsys.2020.08.008)
+- Algorithm vs processing manipulation to scale genetic programming to big data mining — Springer, 2023. [doi](https://doi.org/10.1007/978-981-19-3888-7_7)
+- Genetic programming over Spark for Higgs boson classification — BIS 2019. [doi](https://doi.org/10.1007/978-3-030-20485-3_23)
+- Code : [gp-spark](https://github.com/hhmida/gp-spark) (H. Hmida) ; [EVAS-GP](https://github.com/mbhsana/EVAS-GP) — échantillonnage actif guidé par la population pour la programmation génétique sur données très déséquilibrées.
+
+### 2. Apprentissage automatique pour la biodiversité marine
+
+Prédiction de la qualité écologique des milieux marins à partir de données d'ADN environnemental
+(métabarcoding) et de microbiome ; apprentissage supervisé, non supervisé et semi-supervisé sur graphes ;
+interprétabilité écologique des modèles.
+
+- Explainable AI for marine ecological quality prediction — recommandé par [*PCI Genomics*](https://genomics.peercommunityin.org), 2026. [hal-05046103](https://hal.science/hal-05046103)
+- (AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment — atelier AISE d'ECAI 2025. [doi](https://doi.org/10.6084/m9.figshare.30339076)
+- Thèse de H. Braikia (2026) — [page de soutenance](https://dauphine.psl.eu/formations/doctorat/soutenances/soutenance/application-de-techniques-dapprentissage-automatique-multi-paradigmes-pour-predire-la-qualite-ecologique-des-environnements-marins-a-laide-de-donnees-dadn-environnemental).
+
+### 3. Apprentissage automatique pour la santé : microbiote intestinal et MICI
+
+Prédiction précoce et suivi longitudinal des maladies inflammatoires chroniques de l'intestin (MICI),
+en particulier la maladie de Crohn, à partir du microbiote intestinal et de biomarqueurs cliniques :
+prétraitement et réduction de dimension des données compositionnelles de microbiome, apprentissage
+multimodal explicable, graphes de connaissances, apprentissage sur données médicales déséquilibrées.
+En collaboration avec le laboratoire RISC (ENIT, Tunis).
+
+- Optimized preprocessing for IBD classification using microbiome data — ICIKS 2025.
+- ACTIVE SMOTE for imbalanced medical data classification — ICIKS 2023 <span class="award">Best Paper Award</span> [doi](https://doi.org/10.1007/978-3-031-51664-1_6)
+- Thèse en cours de S. Sabbehi : machine learning multimodal hybride et graphes de connaissances pour la maladie de Crohn.
+
+### 4. Algorithmes évolutionnaires pour les réseaux biologiques
+
+Détection de communautés de tailles variables dans les réseaux d'interactions protéine–protéine (PPI),
+combinant similarité sémantique (Gene Ontology) et topologie.
+
+- GA-PPI-Net: a genetic algorithm for community detection in PPI networks — Springer CCIS, 2020. [doi](https://doi.org/10.1007/978-3-030-52991-8_7)
+- Genetic algorithm for community detection in biological networks — KES 2018 <span class="award">Best Student Paper Award</span> [doi](https://doi.org/10.1016/j.procs.2018.07.233)
+
+## Recherches antérieures
+
+- **Régression symbolique et finance computationnelle** — calibration de modèles d'options et prévision de la
+  volatilité implicite par algorithmes évolutionnaires et PG ; découverte d'expressions par Monte-Carlo imbriqué.
+  *Journal of Computational Finance* 2005 (avec R. Cont, [doi](https://doi.org/10.2139/ssrn.546882)) ;
+  *Computational Intelligence* 2016 ([doi](https://doi.org/10.1111/coin.12057)).
+- **Optimisation évolutionnaire sous contraintes et combinatoire** — prise en compte adaptative des contraintes
+  (ASCHEA, PPSN 2000 et CEC 2002, avec M. Schoenauer), opérateurs génétiques pour les tournées de véhicules,
+  ordonnancement de workflows dans le cloud. Thèse de doctorat : [tel-03086421](https://hal.science/tel-03086421).
+
+## Collaborations
+
+Voir [Projets et collaborations](projets.qmd).

@@ -1,0 +1,36 @@
+---
+title: "Supervision"
+---
+
+## PhD theses (6 co-supervised: 4 defended, 2 ongoing)
+
+**Ongoing**
+
+- **Soumaya Sabbehi** (2025–) — *Hybrid multimodal machine learning and knowledge graph system for predicting and monitoring Crohn's disease.*
+  Joint PhD (cotutelle) between Université Paris Dauphine–PSL ([LAMSADE](https://www.lamsade.dauphine.fr)) and École Polytechnique de Tunisie (RISC laboratory);
+  co-supervised with Safya Belghith (ENIT, director of the RISC laboratory).
+- **Olivia Mu** (2024–) — *European decarbonisation targets for the automotive sector: which factors to reach them by 2050?*
+  CIFRE PhD with AAAdata; co-supervised with Marc Baudry (EconomiX, Université Paris Nanterre).
+
+**Defended**
+
+- **Houria Braikia** (2022–2026) — *Multi-paradigm machine learning techniques to predict the ecological quality of marine environments from environmental DNA data.*
+  Co-supervised with Marta Rukoz (LAMSADE), Dauphine–PSL doctoral contract. Defended on 28 April 2026 ([defence page](https://dauphine.psl.eu/formations/doctorat/soutenances/soutenance/application-de-techniques-dapprentissage-automatique-multi-paradigmes-pour-predire-la-qualite-ecologique-des-environnements-marins-a-laide-de-donnees-dadn-environnemental)).
+- **Marwa Ben M'Barek** (2018–2022) — *Community detection in large networks: application to gene interaction networks.*
+  Joint PhD with Université de Tunis El Manar; co-supervised with Marta Rukoz and Amel Borgi (LIPAH). Defended on 14 October 2022 ([defence page](https://dauphine.psl.eu/formations/doctorat/soutenances/soutenance/detection-de-communautes-dans-les-grands-reseaux-application-aux-reseaux-dinteractions-de-genes)). Best Student Paper Award, KES 2018.
+- **Hmida Hmida** (2015–2019) — *Extending genetic programs for supervised learning from very large databases (Big Data).*
+  Joint PhD with Université de Tunis El Manar; co-supervised with Marta Rukoz and Amel Borgi (LIPAH). Code: [gp-spark](https://github.com/hhmida/gp-spark).
+- **Wafa Abdelmalek** (defended 2011) — *Forecasting implied volatility with genetic programming.*
+  Co-supervised with Fathi Abid (MODESFI, Université de Sfax).
+
+## Research master's theses (selection)
+
+- R. Sena (M2 IASD, Dauphine–PSL, 2021) — class imbalance in medical diagnosis → Best Paper Award, ICIKS 2023.
+- G. Benjelloun (M2 IASD, Dauphine–PSL, 2019) — active sampling vs Spark parallelization for genetic programming.
+- Research projects with LAMSADE and RISC–ENIT (2025–2026): federated learning and metaheuristics, dimensionality reduction for microbiome data, explainable AI for IBD prediction.
+
+## PhD committees
+
+- **Reviewer (rapporteure):** Sorbonne Université – LIP6 (2024, 2026), Université Paris 8 (2026), Université Paris-Est Créteil (2025).
+- **Examiner:** Université Savoie Mont Blanc (2024).
+- **Thesis monitoring committees (CSI):** first-year PhD students of LAMSADE (since 2024), Université Paris 8, Université Savoie Mont Blanc.

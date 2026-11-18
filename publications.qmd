@@ -1,0 +1,50 @@
+---
+title: "Publications"
+---
+
+Full texts are available on [HAL](https://cv.hal.science/sana-ben-hamida).
+See also [Google Scholar](https://scholar.google.com/citations?user=mVT5Lk0AAAAJ) and [dblp](https://dblp.org/pid/82/2414.html).
+
+## Habilitation and PhD thesis
+
+::: {.pubs}
+- **S. Ben Hamida**. *Evolutionary Algorithms as Advanced Machine Learning Techniques — Applications and Scaling for Large Data Sets.* Habilitation (HDR), Université Paris Dauphine–PSL, 2024. [tel-05787780](https://hal.science/tel-05787780)
+- **S. Ben Hamida**. *Algorithmes évolutionnaires : prise en compte des contraintes et application réelle.* PhD thesis, École polytechnique, 2001. [tel-03086421](https://hal.science/tel-03086421)
+:::
+
+## Book
+
+::: {.pubs}
+- A. Petrowski, **S. Ben Hamida**. *Evolutionary Algorithms*. Computer Engineering Series, Metaheuristics Set, vol. 9. ISTE–Wiley, 2017. ISBN 978-1-84821-804-8.
+:::
+
+## Journal articles and recommended preprint
+
+::: {.pubs}
+- H. Braikia, **S. Ben Hamida**, M. Rukoz. Explainable AI for marine ecological quality prediction: integrating microbiome data, metadata, and diversity. Peer-reviewed preprint **recommended by [*Peer Community In Genomics*](https://genomics.peercommunityin.org)**, 2026. [hal-05046103](https://hal.science/hal-05046103)
+- **S. Ben Hamida**, H. Hmida, A. Borgi, M. Rukoz. Adaptive sampling for active learning with genetic programming. *Cognitive Systems Research*, 65:23–39, 2021. [doi](https://doi.org/10.1016/j.cogsys.2020.08.008)
+- **S. Ben Hamida**, W. Abdelmalek, F. Abid. Applying dynamic training-subset selection methods using genetic programming for forecasting implied volatility. *Computational Intelligence*, 32(3):369–390, 2016. [doi](https://doi.org/10.1111/coin.12057)
+- W. Abdelmalek, **S. Ben Hamida**, F. Abid. Selecting the best forecasting-implied volatility model using genetic programming. *Journal of Applied Mathematics and Decision Sciences*, 2009.
+- **S. Ben Hamida**, R. Cont. Recovering volatility from option prices by evolutionary optimization. *The Journal of Computational Finance*, 8(4):43–76, 2005. [doi](https://doi.org/10.2139/ssrn.546882)
+:::
+
+## Book chapters
+
+::: {.pubs}
+- **S. Ben Hamida**, H. Hmida. Algorithm vs processing manipulation to scale genetic programming to big data mining. In *Metaheuristics for Machine Learning*, pp. 179–199. Springer, 2023. [doi](https://doi.org/10.1007/978-981-19-3888-7_7)
+- **S. Ben Hamida**. Extension of evolutionary algorithms to constrained optimization. In P. Siarry (ed.), *Metaheuristics*, pp. 329–356. Springer, 2016. [doi](https://doi.org/10.1007/978-3-319-45403-0_12)
+- A. Petrowski, **S. Ben Hamida**. Evolutionary algorithms. In P. Siarry (ed.), *Metaheuristics*, pp. 115–178. Springer, 2016. [doi](https://doi.org/10.1007/978-3-319-45403-0_6)
+- A. Petrowski, **S. Ben Hamida**. Les algorithmes évolutionnaires. In P. Siarry (dir.), *Métaheuristiques*, pp. 115–173. Eyrolles, 2014.
+- **S. Ben Hamida**. Extensions des algorithmes évolutionnaires à l'optimisation sous contraintes. In P. Siarry (dir.), *Métaheuristiques*, pp. 313–336. Eyrolles, 2014.
+- F. Abid, W. Abdelmalek, **S. Ben Hamida**. Dynamic hedging using generated genetic programming implied volatility models. In *Genetic Programming — New Approaches and Successful Applications*. InTech, 2012. [doi](https://doi.org/10.5772/48148)
+:::
+
+## Awards
+
+- **Best Paper Award**, ICIKS 2023 — *ACTIVE SMOTE for imbalanced medical data classification* (with R. Sena).
+- **Best Student Paper Award**, KES 2018 — *Genetic algorithm for community detection in biological networks* (with M. Ben M'Barek et al.).
+- **Institut Europlace de Finance Prize** — evolutionary calibration of option pricing models (with R. Cont).
+
+## Conference and workshop papers
+
+{{< include _hal_list.md >}}

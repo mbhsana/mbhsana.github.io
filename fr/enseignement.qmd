@@ -1,0 +1,44 @@
+---
+title: "Enseignement et responsabilités"
+lang: fr
+---
+
+Plus de 25 ans d'enseignement de la licence au doctorat, en formation initiale et en apprentissage,
+auprès de publics informaticiens et non informaticiens.
+
+## Enseignements doctoraux (école doctorale de Dauphine–PSL)
+
+- **Evolutionary Machine Learning** (18 h) : programmation génétique pour la régression symbolique et la classification interprétable,
+  clustering évolutionnaire et détection de communautés, passage à l'échelle, apprentissage d'ensemble évolutionnaire,
+  sélection et construction d'attributs, optimisation des hyperparamètres, neuro-évolution.
+- **Evolutionary Algorithms for Optimization and Machine Learning** (18 h, 2019).
+
+## Enseignements actuels (Université Paris Nanterre)
+
+- **Apprentissage automatique** (M2 MIAGE, M2 D3S) : régression, classification, clustering, apprentissage d'ensemble, échantillonnage, sélection de modèles.
+- **Bases de données et NoSQL** (L2 à M1) : modèle relationnel, SQL avancé, optimisation de requêtes, MongoDB, Neo4j, Cassandra.
+- **Python pour l'analyse de données** (M1–M2 économie) : NumPy, Pandas, visualisation.
+
+Également : *Advanced Machine Learning II* (en anglais, ESILV, 2024–2025) ; *Bases de données avancées* (M2 IASD, Dauphine–PSL, 2023–2026).
+
+## Responsabilités
+
+- Co-responsable du master **IES–D3S** (Data Science for Social Sciences), Université Paris Nanterre (depuis 2022).
+- Membre de la commission consultative de discipline (section 27), Université Paris Nanterre (depuis 2017).
+- Vice-présidente (2024) et membre (2013, 2021) de comités de sélection.
+- Correspondante établissement du cours *Compétences numériques* (plus de 2 000 étudiants par semestre, 2015–2020).
+- Ancienne directrice du département Informatique appliquée, ESTI Tunis (2004–2008).
+
+## Communauté scientifique
+
+- **Comités de programme :** ICIKS (2021, 2023, 2025), Artificial Evolution 2017, PPSN 2002 et 2004.
+- **Relectrice pour :** *Applied Intelligence* (Springer, 7 relectures depuis 2021), *SoftwareX* (Elsevier, 2026), *Expert Systems with Applications* (Elsevier, depuis 2020), *Journal of Multi-Criteria Decision Analysis* (Wiley, depuis 2024) ; auparavant *Evolutionary Computation* (MIT Press) et *Quantitative Finance*. Relectures vérifiées : [ORCID](https://orcid.org/0000-0003-4202-613X).
+- **Organisation :** coordinatrice d'axe et présidente de séance, [IEEE AIDIST 2026](https://forumtunisieneducation.org/programme-du-colloque-aidist-2026-intelligence-artificielle/) (Gammarth, Tunisie, 2026) ; track chair, ICIKS 2023.
+- **Comité scientifique** du consortium de recherche **BleuAct** — *Le bleu en action : pour une production halio-alimentaire éco-innovante et durable* (CDR2024ES01, Tunisie), depuis 2025.
+- **Médiation scientifique :** programme [*1 scientifique – 1 classe : Chiche !*](https://chiche.inria.fr) (depuis 2022).
+
+## Conférences invitées et tutoriels (sélection)
+
+- *Advanced Machine Learning: Ensemble, Active and Evolutionary Learning* — laboratoire RISC, ENIT, Tunis, 2023.
+- *Trends to Scale Machine Learning Algorithms for Big Data Analytics* — CUPS 2023, Tunis ; école thématique Microservices and Big Data Management, Nanterre, 2023.
+- *Genetic Programming as an Advanced Machine Learning Technique for Big Data Mining* — Nanterre, 2019.

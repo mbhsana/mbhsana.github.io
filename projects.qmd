@@ -1,0 +1,33 @@
+---
+title: "Projects & collaborations"
+---
+
+## Ongoing
+
+- **BleuAct consortium** — *Le bleu en action : pour une production halio-alimentaire éco-innovante et durable* (CDR2024ES01, Tunisia).
+  Member of the scientific committee, since 2025.
+- **Machine learning for gut microbiome and inflammatory bowel diseases** — collaboration with the RISC laboratory
+  (ENIT, Université de Tunis El Manar), since 2024: joint supervision of research master's projects, joint publications (ICIKS 2025),
+  and a joint PhD (cotutelle Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).
+- **Machine learning for marine ecological quality from environmental DNA** (since 2022) — started with a Dauphine–PSL doctoral contract
+  (PhD of H. Braikia, defended 2026, with M. Rukoz); preprint recommended by PCI Genomics; work and publications ongoing.
+- **Scalable genetic programming for big data and community detection in biological networks** (since 2015) —
+  two joint PhDs (cotutelles) between Dauphine–PSL (LAMSADE) and Université de Tunis El Manar (LIPAH, A. Borgi), defended in 2019 and 2022; work and publications ongoing.
+- **CIFRE PhD with AAAdata** (2024–2027) — European decarbonisation targets for the automotive sector;
+  co-supervision with EconomiX (Université Paris Nanterre).
+
+## Past projects and contracts
+
+- **DIGITAL-SKILLS** (2018–2019) — pedagogical innovation project funded by ComUE Université Paris Lumières (call for expressions of interest); co-leader.
+- **Vehicle routing with genetic operators** — research collaboration with InstaDeep (ICSOFT 2020).
+- **Evolutionary calibration of option pricing models** (2002–2004) — research collaboration with Crédit Commercial de France (HSBC group),
+  with R. Cont; Institut Europlace de Finance prize.
+- **INGENET** European network (*Networked Industrial Design and Control Applications using Genetic Algorithms and Evolution Strategies*, 1998–2000) —
+  representative of CMAP, École polytechnique.
+
+## Collaborations
+
+- **Academic:** [LAMSADE](https://www.lamsade.dauphine.fr), Dauphine–PSL (M. Rukoz, T. Cazenave);
+  LIPAH, Université de Tunis El Manar (A. Borgi); RISC laboratory, ENIT (S. Belghith, W. Mefteh);
+  EconomiX, Université Paris Nanterre (M. Baudry); MODESFI, Université de Sfax (F. Abid).
+- **Industrial:** AAAdata, InstaDeep, CCF–HSBC.

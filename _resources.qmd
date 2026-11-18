@@ -1,0 +1,21 @@
+---
+title: "Resources"
+subtitle: "Short introductions to evolutionary learning"
+---
+
+Teaching material and short introductions to concepts in evolutionary computation and
+evolutionary machine learning. Unless stated otherwise, resources are shared under the
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
+
+## Introductions
+
+*Coming soon:*
+
+- **Evolutionary algorithms in 20 minutes** — the generic evolutionary loop, representations, variation and selection.
+- **Genetic programming for symbolic regression and interpretable classification.**
+- **Scaling genetic programming to large data sets** — active sampling vs parallelization with Spark.
+
+## Further reading
+
+- A. Petrowski, S. Ben Hamida. *Evolutionary Algorithms*. ISTE–Wiley, 2017.
+- [DEAP](https://github.com/DEAP/deap) — Distributed Evolutionary Algorithms in Python.

@@ -1,0 +1,37 @@
+---
+title: "Encadrement"
+lang: fr
+---
+
+## Thèses de doctorat (6 co-encadrées : 4 soutenues, 2 en cours)
+
+**En cours**
+
+- **Soumaya Sabbehi** (2025–) — *Système hybride de machine learning multimodal et graphes de connaissances pour la prédiction et le suivi de la maladie de Crohn.*
+  Cotutelle entre l'Université Paris Dauphine–PSL ([LAMSADE](https://www.lamsade.dauphine.fr)) et l'École Polytechnique de Tunisie (laboratoire RISC) ;
+  codirection avec Safya Belghith (ENIT, directrice du laboratoire RISC).
+- **Olivia Mu** (2024–) — *Les objectifs européens de décarbonation du secteur automobile : quels facteurs pour les atteindre à l'horizon 2050 ?*
+  Thèse CIFRE avec AAAdata ; codirection avec Marc Baudry (EconomiX, Université Paris Nanterre).
+
+**Soutenues**
+
+- **Houria Braikia** (2022–2026) — *Application de techniques d'apprentissage automatique multi-paradigmes pour prédire la qualité écologique des environnements marins à l'aide de données d'ADN environnemental.*
+  Codirection avec Marta Rukoz (LAMSADE), contrat doctoral Dauphine–PSL. Soutenue le 28 avril 2026 ([page de soutenance](https://dauphine.psl.eu/formations/doctorat/soutenances/soutenance/application-de-techniques-dapprentissage-automatique-multi-paradigmes-pour-predire-la-qualite-ecologique-des-environnements-marins-a-laide-de-donnees-dadn-environnemental)).
+- **Marwa Ben M'Barek** (2018–2022) — *Détection de communautés dans les grands réseaux. Application aux réseaux d'interactions de gènes.*
+  Cotutelle avec l'Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Soutenue le 14 octobre 2022 ([page de soutenance](https://dauphine.psl.eu/formations/doctorat/soutenances/soutenance/detection-de-communautes-dans-les-grands-reseaux-application-aux-reseaux-dinteractions-de-genes)). Best Student Paper Award, KES 2018.
+- **Hmida Hmida** (2015–2019) — *Extension des programmes génétiques pour l'apprentissage supervisé à partir de très larges bases de données (Big Data).*
+  Cotutelle avec l'Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Code : [gp-spark](https://github.com/hhmida/gp-spark).
+- **Wafa Abdelmalek** (soutenue en 2011) — *Prédiction de la volatilité implicite par la programmation génétique.*
+  Co-encadrement avec Fathi Abid (MODESFI, Université de Sfax).
+
+## Mémoires de recherche (sélection)
+
+- R. Sena (M2 IASD, Dauphine–PSL, 2021) — déséquilibre des classes en diagnostic médical → Best Paper Award, ICIKS 2023.
+- G. Benjelloun (M2 IASD, Dauphine–PSL, 2019) — échantillonnage actif vs parallélisation Spark pour la programmation génétique.
+- Mémoires avec le LAMSADE et le laboratoire RISC–ENIT (2025–2026) : apprentissage fédéré et métaheuristiques, réduction de dimension pour le microbiome, IA explicable pour la prédiction des MICI.
+
+## Jurys et suivi de thèses
+
+- **Rapporteure :** Sorbonne Université – LIP6 (2024, 2026), Université Paris 8 (2026), Université Paris-Est Créteil (2025).
+- **Examinatrice :** Université Savoie Mont Blanc (2024).
+- **Comités de suivi individuel (CSI) :** doctorants de première année du LAMSADE (depuis 2024), Université Paris 8, Université Savoie Mont Blanc.

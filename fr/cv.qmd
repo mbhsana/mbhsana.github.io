@@ -1,0 +1,22 @@
+---
+title: "Curriculum vitae"
+lang: fr
+---
+
+[Télécharger le CV (PDF)](../files/CV_SanaBenHamida_FR.pdf) <!-- TODO: CV court FR -->
+
+## Parcours
+
+- **Depuis 2003** — Maîtresse de conférences en informatique, Université Paris Nanterre ; hors classe depuis 2024.
+- **Depuis 2014** — Chercheuse associée, [LAMSADE](https://www.lamsade.dauphine.fr) (UMR CNRS 7243), Université Paris Dauphine–PSL.
+- **2004–2010** — Maîtresse de conférences, ESTI (aujourd'hui ENICarthage), Tunis.
+- **2002–2004** — Post-doctorat puis consultante en recherche, Crédit Commercial de France (groupe HSBC), Paris.
+- **2000–2002** — ATER, IUT de Villetaneuse, Université Paris 13.
+
+## Diplômes
+
+- **2024** — Habilitation à diriger des recherches en informatique, Université Paris Dauphine–PSL.
+  *Evolutionary Algorithms as Advanced Machine Learning Techniques — Applications and Scaling for Large Data Sets.* [tel-05787780](https://hal.science/tel-05787780)
+- **2001** — Doctorat en informatique, École polytechnique (CMAP), sous la direction de Marc Schoenauer.
+  *Algorithmes évolutionnaires : prise en compte des contraintes et application réelle.* [tel-03086421](https://hal.science/tel-03086421)
+- **1997** — DEA, Université Paris 7 et INSTN (CEA Saclay).
