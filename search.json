@@ -1,5 +1,225 @@
 [
   {
+    "objectID": "fr/recherche.html",
+    "href": "fr/recherche.html",
+    "title": "Recherche",
+    "section": "",
+    "text": "Mots-clés : calcul évolutionnaire, programmation génétique, apprentissage automatique évolutionnaire, apprentissage actif, données massives et déséquilibrées, IA explicable, apprentissage sur graphes, ADN environnemental, microbiome marin, microbiote intestinal, maladies inflammatoires chroniques de l’intestin (maladie de Crohn), apprentissage multimodal, graphes de connaissances, bio-informatique, optimisation sous contraintes.",
+    "crumbs": [
+      "FR",
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "fr/recherche.html#recherches-actuelles",
+    "href": "fr/recherche.html#recherches-actuelles",
+    "title": "Recherche",
+    "section": "Recherches actuelles",
+    "text": "Recherches actuelles\n\n1. Apprentissage évolutionnaire à grande échelle\nProgrammation génétique (PG) pour la classification de données massives : échantillonnage actif et adaptatif des données d’apprentissage, parallélisation avec Apache Spark, approches hybrides et d’ensemble.\n\nAdaptive sampling for active learning with genetic programming — Cognitive Systems Research, 2021. doi\nAlgorithm vs processing manipulation to scale genetic programming to big data mining — Springer, 2023. doi\nGenetic programming over Spark for Higgs boson classification — BIS 2019. doi\nCode : gp-spark (H. Hmida) ; EVAS-GP — échantillonnage actif guidé par la population pour la programmation génétique sur données très déséquilibrées.\n\n\n\n2. Apprentissage automatique pour la biodiversité marine\nPrédiction de la qualité écologique des milieux marins à partir de données d’ADN environnemental (métabarcoding) et de microbiome ; apprentissage supervisé, non supervisé et semi-supervisé sur graphes ; interprétabilité écologique des modèles.\n\nExplainable AI for marine ecological quality prediction — recommandé par PCI Genomics, 2026. hal-05046103\n(AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment — atelier AISE d’ECAI 2025. doi\nThèse de H. Braikia (2026) — page de soutenance.\n\n\n\n3. Apprentissage automatique pour la santé : microbiote intestinal et MICI\nPrédiction précoce et suivi longitudinal des maladies inflammatoires chroniques de l’intestin (MICI), en particulier la maladie de Crohn, à partir du microbiote intestinal et de biomarqueurs cliniques : prétraitement et réduction de dimension des données compositionnelles de microbiome, apprentissage multimodal explicable, graphes de connaissances, apprentissage sur données médicales déséquilibrées. En collaboration avec le laboratoire RISC (ENIT, Tunis).\n\nOptimized preprocessing for IBD classification using microbiome data — ICIKS 2025.\nACTIVE SMOTE for imbalanced medical data classification — ICIKS 2023 Best Paper Award doi\nThèse en cours de S. Sabbehi : machine learning multimodal hybride et graphes de connaissances pour la maladie de Crohn.\n\n\n\n4. Algorithmes évolutionnaires pour les réseaux biologiques\nDétection de communautés de tailles variables dans les réseaux d’interactions protéine–protéine (PPI), combinant similarité sémantique (Gene Ontology) et topologie.\n\nGA-PPI-Net: a genetic algorithm for community detection in PPI networks — Springer CCIS, 2020. doi\nGenetic algorithm for community detection in biological networks — KES 2018 Best Student Paper Award doi",
+    "crumbs": [
+      "FR",
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "fr/recherche.html#recherches-antérieures",
+    "href": "fr/recherche.html#recherches-antérieures",
+    "title": "Recherche",
+    "section": "Recherches antérieures",
+    "text": "Recherches antérieures\n\nRégression symbolique et finance computationnelle — calibration de modèles d’options et prévision de la volatilité implicite par algorithmes évolutionnaires et PG ; découverte d’expressions par Monte-Carlo imbriqué. Journal of Computational Finance 2005 (avec R. Cont, doi) ; Computational Intelligence 2016 (doi).\nOptimisation évolutionnaire sous contraintes et combinatoire — prise en compte adaptative des contraintes (ASCHEA, PPSN 2000 et CEC 2002, avec M. Schoenauer), opérateurs génétiques pour les tournées de véhicules, ordonnancement de workflows dans le cloud. Thèse de doctorat : tel-03086421.",
+    "crumbs": [
+      "FR",
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "fr/recherche.html#collaborations",
+    "href": "fr/recherche.html#collaborations",
+    "title": "Recherche",
+    "section": "Collaborations",
+    "text": "Collaborations\nVoir Projets et collaborations.",
+    "crumbs": [
+      "FR",
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Sana Ben Hamida",
+    "section": "",
+    "text": "Université Paris Nanterre — UFR SEGMI, département Mathématiques et Informatique\nLAMSADE (UMR CNRS 7243), Université Paris Dauphine–PSL — chercheuse associée",
+    "crumbs": [
+      "FR",
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "fr/index.html#présentation",
+    "href": "fr/index.html#présentation",
+    "title": "Sana Ben Hamida",
+    "section": "Présentation",
+    "text": "Présentation\nMes recherches se situent à l’interface du calcul évolutionnaire et de l’apprentissage automatique. Je développe des méthodes d’apprentissage évolutionnaire — programmation génétique, échantillonnage actif et adaptatif, apprentissage d’ensemble, approches hybrides — capables de passer à l’échelle sur des données volumineuses, de grande dimension et déséquilibrées. Depuis 2022, ces travaux portent principalement sur la bio-informatique, l’environnement et la santé : prédiction de la qualité écologique des milieux marins à partir de données d’ADN environnemental et de microbiome, prédiction des maladies inflammatoires chroniques de l’intestin, avec une attention particulière à l’explicabilité des modèles.\nDocteure de l’École polytechnique (2001, sous la direction de Marc Schoenauer) et habilitée à diriger des recherches (Université Paris Dauphine–PSL, 2024, tel-05787780), je compte plus de 25 ans d’expérience dans l’enseignement supérieur, de la licence au doctorat.\n\n\n6thèses co-encadrées (4 soutenues)\n\n\n41publications avec comité de lecture (revues, chapitres, conférences internationales)\n\n\n1ouvrage de référence (ISTE–Wiley, 2017)\n\n\n13articles dans des conférences CORE A/B\n\n\n2prix de meilleur article (ICIKS 2023, KES 2018)\n\n\n5jurys de thèse (dont 4 comme rapporteure)",
+    "crumbs": [
+      "FR",
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "fr/index.html#actualités",
+    "href": "fr/index.html#actualités",
+    "title": "Sana Ben Hamida",
+    "section": "Actualités",
+    "text": "Actualités\n\nOctobre 2026 — Coordination de l’axe « L’IA comme levier de résilience écologique », colloque international IEEE AIDIST 2026, Gammarth, Tunisie, 29–31 octobre 2026 ; présidence de la séance 1.\nAvril 2026 — Soutenance de thèse de Houria Braikia sur l’apprentissage multi-paradigmes pour la qualité écologique marine (page de soutenance).\n2026 — Notre prépublication Explainable AI for marine ecological quality prediction (hal-05046103) est recommandée par Peer Community In Genomics.\n2025 — Début de la thèse de Soumaya Sabbehi sur le machine learning multimodal et les graphes de connaissances pour la maladie de Crohn (cotutelle Dauphine–PSL / École Polytechnique de Tunisie).",
+    "crumbs": [
+      "FR",
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "fr/index.html#contact",
+    "href": "fr/index.html#contact",
+    "title": "Sana Ben Hamida",
+    "section": "Contact",
+    "text": "Contact\nsbenhami [at] parisnanterre.fr",
+    "crumbs": [
+      "FR",
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "fr/projets.html",
+    "href": "fr/projets.html",
+    "title": "Projets et collaborations",
+    "section": "",
+    "text": "Consortium BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisie). Membre du comité scientifique, depuis 2025.\nApprentissage automatique pour le microbiote intestinal et les MICI — collaboration avec le laboratoire RISC (ENIT, Université de Tunis El Manar), depuis 2024 : co-encadrement de mémoires de recherche, publications communes (ICIKS 2025) et thèse en cotutelle (Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nApprentissage automatique pour la qualité écologique marine à partir de l’ADN environnemental (depuis 2022) — lancé avec un contrat doctoral Dauphine–PSL (thèse de H. Braikia, soutenue en 2026, avec M. Rukoz) ; prépublication recommandée par PCI Genomics ; travaux et publications en cours.\nProgrammation génétique à grande échelle et détection de communautés dans les réseaux biologiques (depuis 2015) — deux thèses en cotutelle entre Dauphine–PSL (LAMSADE) et l’Université de Tunis El Manar (LIPAH, A. Borgi), soutenues en 2019 et 2022 ; travaux et publications en cours.\nThèse CIFRE avec AAAdata (2024–2027) — objectifs européens de décarbonation du secteur automobile ; codirection avec EconomiX (Université Paris Nanterre).",
+    "crumbs": [
+      "FR",
+      "Projets et collaborations"
+    ]
+  },
+  {
+    "objectID": "fr/projets.html#en-cours",
+    "href": "fr/projets.html#en-cours",
+    "title": "Projets et collaborations",
+    "section": "",
+    "text": "Consortium BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisie). Membre du comité scientifique, depuis 2025.\nApprentissage automatique pour le microbiote intestinal et les MICI — collaboration avec le laboratoire RISC (ENIT, Université de Tunis El Manar), depuis 2024 : co-encadrement de mémoires de recherche, publications communes (ICIKS 2025) et thèse en cotutelle (Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nApprentissage automatique pour la qualité écologique marine à partir de l’ADN environnemental (depuis 2022) — lancé avec un contrat doctoral Dauphine–PSL (thèse de H. Braikia, soutenue en 2026, avec M. Rukoz) ; prépublication recommandée par PCI Genomics ; travaux et publications en cours.\nProgrammation génétique à grande échelle et détection de communautés dans les réseaux biologiques (depuis 2015) — deux thèses en cotutelle entre Dauphine–PSL (LAMSADE) et l’Université de Tunis El Manar (LIPAH, A. Borgi), soutenues en 2019 et 2022 ; travaux et publications en cours.\nThèse CIFRE avec AAAdata (2024–2027) — objectifs européens de décarbonation du secteur automobile ; codirection avec EconomiX (Université Paris Nanterre).",
+    "crumbs": [
+      "FR",
+      "Projets et collaborations"
+    ]
+  },
+  {
+    "objectID": "fr/projets.html#projets-et-contrats-passés",
+    "href": "fr/projets.html#projets-et-contrats-passés",
+    "title": "Projets et collaborations",
+    "section": "Projets et contrats passés",
+    "text": "Projets et contrats passés\n\nDIGITAL-SKILLS (2018–2019) — projet d’innovation pédagogique financé par la ComUE Université Paris Lumières (AMI) ; co-porteuse.\nTournées de véhicules et opérateurs génétiques — collaboration de recherche avec InstaDeep (ICSOFT 2020).\nCalibration évolutionnaire de modèles d’options (2002–2004) — collaboration de recherche avec le Crédit Commercial de France (groupe HSBC), avec R. Cont ; prix de l’Institut Europlace de Finance.\nRéseau européen INGENET (Networked Industrial Design and Control Applications using Genetic Algorithms and Evolution Strategies, 1998–2000) — représentante du CMAP, École polytechnique.",
+    "crumbs": [
+      "FR",
+      "Projets et collaborations"
+    ]
+  },
+  {
+    "objectID": "fr/projets.html#collaborations",
+    "href": "fr/projets.html#collaborations",
+    "title": "Projets et collaborations",
+    "section": "Collaborations",
+    "text": "Collaborations\n\nAcadémiques : LAMSADE, Dauphine–PSL (M. Rukoz, T. Cazenave) ; LIPAH, Université de Tunis El Manar (A. Borgi) ; laboratoire RISC, ENIT (S. Belghith, W. Mefteh) ; EconomiX, Université Paris Nanterre (M. Baudry) ; MODESFI, Université de Sfax (F. Abid).\nIndustrielles : AAAdata, InstaDeep, CCF–HSBC.",
+    "crumbs": [
+      "FR",
+      "Projets et collaborations"
+    ]
+  },
+  {
+    "objectID": "fr/encadrement.html",
+    "href": "fr/encadrement.html",
+    "title": "Encadrement",
+    "section": "",
+    "text": "En cours\n\nSoumaya Sabbehi (2025–) — Système hybride de machine learning multimodal et graphes de connaissances pour la prédiction et le suivi de la maladie de Crohn. Cotutelle entre l’Université Paris Dauphine–PSL (LAMSADE) et l’École Polytechnique de Tunisie (laboratoire RISC) ; codirection avec Safya Belghith (ENIT, directrice du laboratoire RISC).\nOlivia Mu (2024–) — Les objectifs européens de décarbonation du secteur automobile : quels facteurs pour les atteindre à l’horizon 2050 ? Thèse CIFRE avec AAAdata ; codirection avec Marc Baudry (EconomiX, Université Paris Nanterre).\n\nSoutenues\n\nHouria Braikia (2022–2026) — Application de techniques d’apprentissage automatique multi-paradigmes pour prédire la qualité écologique des environnements marins à l’aide de données d’ADN environnemental. Codirection avec Marta Rukoz (LAMSADE), contrat doctoral Dauphine–PSL. Soutenue le 28 avril 2026 (page de soutenance).\nMarwa Ben M’Barek (2018–2022) — Détection de communautés dans les grands réseaux. Application aux réseaux d’interactions de gènes. Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Soutenue le 14 octobre 2022 (page de soutenance). Best Student Paper Award, KES 2018.\nHmida Hmida (2015–2019) — Extension des programmes génétiques pour l’apprentissage supervisé à partir de très larges bases de données (Big Data). Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Code : gp-spark.\nWafa Abdelmalek (soutenue en 2011) — Prédiction de la volatilité implicite par la programmation génétique. Co-encadrement avec Fathi Abid (MODESFI, Université de Sfax).",
+    "crumbs": [
+      "FR",
+      "Encadrement"
+    ]
+  },
+  {
+    "objectID": "fr/encadrement.html#thèses-de-doctorat-6-co-encadrées-4-soutenues-2-en-cours",
+    "href": "fr/encadrement.html#thèses-de-doctorat-6-co-encadrées-4-soutenues-2-en-cours",
+    "title": "Encadrement",
+    "section": "",
+    "text": "En cours\n\nSoumaya Sabbehi (2025–) — Système hybride de machine learning multimodal et graphes de connaissances pour la prédiction et le suivi de la maladie de Crohn. Cotutelle entre l’Université Paris Dauphine–PSL (LAMSADE) et l’École Polytechnique de Tunisie (laboratoire RISC) ; codirection avec Safya Belghith (ENIT, directrice du laboratoire RISC).\nOlivia Mu (2024–) — Les objectifs européens de décarbonation du secteur automobile : quels facteurs pour les atteindre à l’horizon 2050 ? Thèse CIFRE avec AAAdata ; codirection avec Marc Baudry (EconomiX, Université Paris Nanterre).\n\nSoutenues\n\nHouria Braikia (2022–2026) — Application de techniques d’apprentissage automatique multi-paradigmes pour prédire la qualité écologique des environnements marins à l’aide de données d’ADN environnemental. Codirection avec Marta Rukoz (LAMSADE), contrat doctoral Dauphine–PSL. Soutenue le 28 avril 2026 (page de soutenance).\nMarwa Ben M’Barek (2018–2022) — Détection de communautés dans les grands réseaux. Application aux réseaux d’interactions de gènes. Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Soutenue le 14 octobre 2022 (page de soutenance). Best Student Paper Award, KES 2018.\nHmida Hmida (2015–2019) — Extension des programmes génétiques pour l’apprentissage supervisé à partir de très larges bases de données (Big Data). Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Code : gp-spark.\nWafa Abdelmalek (soutenue en 2011) — Prédiction de la volatilité implicite par la programmation génétique. Co-encadrement avec Fathi Abid (MODESFI, Université de Sfax).",
+    "crumbs": [
+      "FR",
+      "Encadrement"
+    ]
+  },
+  {
+    "objectID": "fr/encadrement.html#mémoires-de-recherche-sélection",
+    "href": "fr/encadrement.html#mémoires-de-recherche-sélection",
+    "title": "Encadrement",
+    "section": "Mémoires de recherche (sélection)",
+    "text": "Mémoires de recherche (sélection)\n\nR. Sena (M2 IASD, Dauphine–PSL, 2021) — déséquilibre des classes en diagnostic médical → Best Paper Award, ICIKS 2023.\nG. Benjelloun (M2 IASD, Dauphine–PSL, 2019) — échantillonnage actif vs parallélisation Spark pour la programmation génétique.\nMémoires avec le LAMSADE et le laboratoire RISC–ENIT (2025–2026) : apprentissage fédéré et métaheuristiques, réduction de dimension pour le microbiome, IA explicable pour la prédiction des MICI.",
+    "crumbs": [
+      "FR",
+      "Encadrement"
+    ]
+  },
+  {
+    "objectID": "fr/encadrement.html#jurys-et-suivi-de-thèses",
+    "href": "fr/encadrement.html#jurys-et-suivi-de-thèses",
+    "title": "Encadrement",
+    "section": "Jurys et suivi de thèses",
+    "text": "Jurys et suivi de thèses\n\nRapporteure : Sorbonne Université – LIP6 (2024, 2026), Université Paris 8 (2026), Université Paris-Est Créteil (2025).\nExaminatrice : Université Savoie Mont Blanc (2024).\nComités de suivi individuel (CSI) : doctorants de première année du LAMSADE (depuis 2024), Université Paris 8, Université Savoie Mont Blanc.",
+    "crumbs": [
+      "FR",
+      "Encadrement"
+    ]
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Keywords: evolutionary computation, genetic programming, evolutionary machine learning, active learning, large-scale and imbalanced data, explainable AI, graph-based learning, environmental DNA, marine microbiome, gut microbiome, inflammatory bowel diseases (Crohn’s disease), multimodal learning, knowledge graphs, bioinformatics, constrained optimization.",
+    "crumbs": [
+      "EN",
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "Current research",
+    "text": "Current research\n\n1. Scalable evolutionary machine learning\nGenetic programming (GP) for the classification of large data sets: active and adaptive sampling of training data, parallelization with Apache Spark, hybrid and ensemble approaches.\n\nAdaptive sampling for active learning with genetic programming — Cognitive Systems Research, 2021. doi\nAlgorithm vs processing manipulation to scale genetic programming to big data mining — Springer, 2023. doi\nGenetic programming over Spark for Higgs boson classification — BIS 2019. doi\nCode: gp-spark (H. Hmida); EVAS-GP — population-guided active sampling for genetic programming on highly imbalanced data.\n\n\n\n2. Machine learning for marine biodiversity\nPredicting the ecological quality of marine environments from environmental DNA (metabarcoding) and microbiome data; supervised, unsupervised and semi-supervised learning on graphs; ecological interpretability of models.\n\nExplainable AI for marine ecological quality prediction — recommended by PCI Genomics, 2026. hal-05046103\n(AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment — ECAI 2025 workshop AISE. doi\nPhD thesis of H. Braikia (2026) — defence page.\n\n\n\n3. Machine learning for health: gut microbiome and inflammatory bowel diseases\nEarly prediction and longitudinal monitoring of inflammatory bowel diseases (IBD), in particular Crohn’s disease, from gut microbiome data and clinical biomarkers: preprocessing and dimensionality reduction of compositional microbiome data, explainable multimodal learning, knowledge graphs, and learning from imbalanced medical data. In collaboration with the RISC laboratory (ENIT, Tunis).\n\nOptimized preprocessing for IBD classification using microbiome data — ICIKS 2025.\nACTIVE SMOTE for imbalanced medical data classification — ICIKS 2023 Best Paper Award doi\nOngoing PhD of S. Sabbehi: hybrid multimodal machine learning and knowledge graphs for Crohn’s disease.\n\n\n\n4. Evolutionary algorithms for biological networks\nDetection of communities of variable sizes in protein–protein interaction (PPI) networks, combining semantic similarity (Gene Ontology) and topology.\n\nGA-PPI-Net: a genetic algorithm for community detection in PPI networks — Springer CCIS, 2020. doi\nGenetic algorithm for community detection in biological networks — KES 2018 Best Student Paper Award doi",
+    "crumbs": [
+      "EN",
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#earlier-research",
+    "href": "research.html#earlier-research",
+    "title": "Research",
+    "section": "Earlier research",
+    "text": "Earlier research\n\nSymbolic regression and computational finance — option model calibration and implied volatility forecasting with evolutionary algorithms and GP; nested Monte Carlo expression discovery. Journal of Computational Finance 2005 (with R. Cont, doi); Computational Intelligence 2016 (doi).\nConstrained and combinatorial evolutionary optimization — adaptive constraint handling (ASCHEA, PPSN 2000 and CEC 2002, with M. Schoenauer), genetic operators for vehicle routing, workflow scheduling in the cloud. PhD thesis: tel-03086421.",
+    "crumbs": [
+      "EN",
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#collaborations",
+    "href": "research.html#collaborations",
+    "title": "Research",
+    "section": "Collaborations",
+    "text": "Collaborations\nSee Projects & collaborations.",
+    "crumbs": [
+      "EN",
+      "Research"
+    ]
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum vitae",
@@ -30,6 +250,50 @@
     "crumbs": [
       "EN",
       "Curriculum vitae"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & collaborations",
+    "section": "",
+    "text": "BleuAct consortium — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisia). Member of the scientific committee, since 2025.\nMachine learning for gut microbiome and inflammatory bowel diseases — collaboration with the RISC laboratory (ENIT, Université de Tunis El Manar), since 2024: joint supervision of research master’s projects, joint publications (ICIKS 2025), and a joint PhD (cotutelle Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nMachine learning for marine ecological quality from environmental DNA (since 2022) — started with a Dauphine–PSL doctoral contract (PhD of H. Braikia, defended 2026, with M. Rukoz); preprint recommended by PCI Genomics; work and publications ongoing.\nScalable genetic programming for big data and community detection in biological networks (since 2015) — two joint PhDs (cotutelles) between Dauphine–PSL (LAMSADE) and Université de Tunis El Manar (LIPAH, A. Borgi), defended in 2019 and 2022; work and publications ongoing.\nCIFRE PhD with AAAdata (2024–2027) — European decarbonisation targets for the automotive sector; co-supervision with EconomiX (Université Paris Nanterre).",
+    "crumbs": [
+      "EN",
+      "Projects & collaborations"
+    ]
+  },
+  {
+    "objectID": "projects.html#ongoing",
+    "href": "projects.html#ongoing",
+    "title": "Projects & collaborations",
+    "section": "",
+    "text": "BleuAct consortium — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisia). Member of the scientific committee, since 2025.\nMachine learning for gut microbiome and inflammatory bowel diseases — collaboration with the RISC laboratory (ENIT, Université de Tunis El Manar), since 2024: joint supervision of research master’s projects, joint publications (ICIKS 2025), and a joint PhD (cotutelle Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nMachine learning for marine ecological quality from environmental DNA (since 2022) — started with a Dauphine–PSL doctoral contract (PhD of H. Braikia, defended 2026, with M. Rukoz); preprint recommended by PCI Genomics; work and publications ongoing.\nScalable genetic programming for big data and community detection in biological networks (since 2015) — two joint PhDs (cotutelles) between Dauphine–PSL (LAMSADE) and Université de Tunis El Manar (LIPAH, A. Borgi), defended in 2019 and 2022; work and publications ongoing.\nCIFRE PhD with AAAdata (2024–2027) — European decarbonisation targets for the automotive sector; co-supervision with EconomiX (Université Paris Nanterre).",
+    "crumbs": [
+      "EN",
+      "Projects & collaborations"
+    ]
+  },
+  {
+    "objectID": "projects.html#past-projects-and-contracts",
+    "href": "projects.html#past-projects-and-contracts",
+    "title": "Projects & collaborations",
+    "section": "Past projects and contracts",
+    "text": "Past projects and contracts\n\nDIGITAL-SKILLS (2018–2019) — pedagogical innovation project funded by ComUE Université Paris Lumières (call for expressions of interest); co-leader.\nVehicle routing with genetic operators — research collaboration with InstaDeep (ICSOFT 2020).\nEvolutionary calibration of option pricing models (2002–2004) — research collaboration with Crédit Commercial de France (HSBC group), with R. Cont; Institut Europlace de Finance prize.\nINGENET European network (Networked Industrial Design and Control Applications using Genetic Algorithms and Evolution Strategies, 1998–2000) — representative of CMAP, École polytechnique.",
+    "crumbs": [
+      "EN",
+      "Projects & collaborations"
+    ]
+  },
+  {
+    "objectID": "projects.html#collaborations",
+    "href": "projects.html#collaborations",
+    "title": "Projects & collaborations",
+    "section": "Collaborations",
+    "text": "Collaborations\n\nAcademic: LAMSADE, Dauphine–PSL (M. Rukoz, T. Cazenave); LIPAH, Université de Tunis El Manar (A. Borgi); RISC laboratory, ENIT (S. Belghith, W. Mefteh); EconomiX, Université Paris Nanterre (M. Baudry); MODESFI, Université de Sfax (F. Abid).\nIndustrial: AAAdata, InstaDeep, CCF–HSBC.",
+    "crumbs": [
+      "EN",
+      "Projects & collaborations"
     ]
   },
   {
@@ -103,7 +367,7 @@
     "href": "publications.html#conference-and-workshop-papers",
     "title": "Publications",
     "section": "Conference and workshop papers",
-    "text": "Conference and workshop papers\n\n\n2024\n\nH. Braikia, S. Ben Hamida, M. Rukoz. Random Forest Classifier for Marine Biodiversity Analysis. 2024 International Conference on Intelligent Systems and Computer Vision (ISCV), 2024. hal-04673568 · doi\n\n\n\n2023\n\nR. Sena, S. Ben Hamida. ACTIVE SMOTE for Imbalanced Medical Data Classification. International Conference on Information and Knowledge Systems, 2023. hal-04462505 · doi\n\n\n\n2021\n\nS. Ben Hamida, G. Benjelloun. Extending DEAP with Active Sampling for Evolutionary Supervised Learning. Proceedings of the 16th International Conference on Software Technologies, ICSOFT 2021, 2021. hal-03363085\n\n\n\n2019\n\nM. Ben M’barek, A. Borgi, S. Ben Hmida, M. Rukoz. GA-PPI-Net. 14th International Conference, ICSOFT 2019 (Revised Selected Papers), 2019. hal-05793222 · doi\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. Genetic Algorithm to Detect Different Sizes’ Communities from Protein-Protein Interaction Networks. 14th International Conference on Software Technologies, 2019. hal-02286178 · doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Genetic Programming over Spark for Higgs Boson Classification. 22nd International Conference Business Information Systems, 2019. hal-02286136 · doi\n\n\n\n2016\n\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Hierarchical Data Topology Based Selection for Large Scale Learning. 2016 Intl IEEE Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld), 2016. hal-02286148 · doi\nS. Ben Hamida, M. Rukoz. Tuning Active Sampling Techniques for Evolutionary Learner from Big Data Sets: Review and Discussion. UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld (2016 Intl IEEE Conferences), 2016. hal-01448255 · doi\n\n\n\n2015\n\nT. Cazenave, S. Ben Hamida. Forecasting Financial Volatility Using Nested Monte Carlo Expression Discovery. 2015 IEEE Symposium Series on Computational Intelligence (SSCI), 2015. hal-02476560 · doi\n\n\n\n2006\n\nS. Ben Hamida, M. Mrad. Optimal Quantization : Evolutionary Algorithm vs Stochastic Gradient. 9th Joint Conference on Information Sciences, 2006. hal-02490713 · doi\n\n\n\n2000\n\nS. Ben Hamida, M. Schoenauer. An Adaptive Algorithm for constrained optimization problems. PPSN 2000, 2000. inria-00001273\nS. Ben Hamida, A. Petrowski. The need for improving the exploration operators for constrained optimization problems. 2000 Congress on Evolutionary Computation, 2000. hal-02490606 · doi",
+    "text": "Conference and workshop papers\n\n\n2025–2026\n\nS. Sabbehi, W. Mefteh, S. Ben Hamida. Optimized preprocessing for IBD classification using microbiome data. ICIKS 2025, Springer LNBIP (to appear).\nS. Ben Hamida, T. S. Abdoulaye, H. Braikia. An integrated framework for microbiome data analysis in marine biodiversity studies. ICIKS 2025, Springer LNBIP (to appear).\nH. Braikia, S. Ben Hamida, M. Rukoz. Unsupervised machine learning for predicting marine ecological quality based on microbiome data. KES-IDT 2025, Springer, 2026. doi\nH. Braikia, S. Ben Hamida, M. Rukoz. (AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment. AISE workshop, ECAI 2025. doi\nH. Braikia, S. Ben Hamida, M. Rukoz. Efficient data preprocessing for ecological quality assessment in marine environments. ICAISE 2024, Springer LNNS, 2025. doi\n\n\n\n2023–2024\n\nH. Braikia, S. Ben Hamida, M. Rukoz. Random forest classifier for marine biodiversity analysis. ISCV 2024, IEEE. doi\nM. Ben M’Barek, S. Ben Hamida, A. Borgi, M. Rukoz. Evolutionary graph-clustering vs evolutionary cluster-detection approaches for community identification in PPI networks. ICIKS 2023, Springer LNBIP, 2024. doi\nR. Sena, S. Ben Hamida. ACTIVE SMOTE for imbalanced medical data classification. ICIKS 2023, Springer LNBIP, 2024. doi Best Paper Award\n\n\n\n2019–2021\n\nM. Ben M’Barek, S. Ben Hamida, A. Borgi, M. Rukoz. GA-PPI-Net approach vs analytical approaches for community detection in PPI networks. KES 2021, Procedia Computer Science. doi\nS. Ben Hamida, G. Benjelloun. Extending DEAP with active sampling for evolutionary supervised learning. ICSOFT 2021, SciTePress.\nS. Ben Hamida, G. Benjelloun, H. Hmida. Trends of evolutionary machine learning to address big data mining. ICIKS 2021, Springer LNBIP. doi\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. Generic GA-PPI-Net: generic evolutionary algorithm to detect semantic and topological biological communities. ICSOFT 2020, SciTePress. doi\nS. Ben Hamida, R. Gorsane, K. Gorsan Mestiri. Towards a better understanding of genetic operators for ordering optimization: application to the capacitated vehicle routing problem. ICSOFT 2020, SciTePress.\nK. Bousselmi, S. Ben Hamida, M. Rukoz. Bi-objective CSO for big data scientific workflows scheduling in the cloud: case of LIGO workflow. ICSOFT 2020, SciTePress.\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. GA-PPI-Net: a genetic algorithm for community detection in protein–protein interaction networks. Software Technologies, Springer CCIS, 2020. doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Genetic programming over Spark for Higgs boson classification. BIS 2019, Springer LNBIP. doi\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. Genetic algorithm to detect different sizes’ communities from protein–protein interaction networks. ICSOFT 2019, SciTePress. doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. A new adaptive sampling approach for genetic programming. ICDS 2019, IEEE.\n\n\n\n2015–2018\n\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Scale genetic programming for large data sets: case of Higgs bosons classification. KES 2018, Procedia Computer Science. doi\nM. Ben M’Barek, A. Borgi, W. Bedhiafi, S. Ben Hamida. Genetic algorithm for community detection in biological networks. KES 2018, Procedia Computer Science. doi Best Student Paper Award\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Sampling methods in genetic programming learners from large datasets: a comparative study. INNS Big Data 2016, Springer. doi\nS. Ben Hamida, M. Rukoz. Tuning active sampling techniques for evolutionary learner from big data sets: review and discussion. Workshop on High Performance Big Data Computing, IEEE 2016. doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Hierarchical data topology based selection for large scale learning. Workshop on High Performance Big Data Computing, IEEE 2016. doi\nT. Cazenave, S. Ben Hamida. Forecasting financial volatility using nested Monte Carlo expression discovery. IEEE SSCI 2015. doi\n\n\n\nBefore 2015\n\nM. Mrad, S. Ben Hamida. Optimal quantization: evolutionary algorithm vs stochastic gradient. JCIS 2006. doi\nS. Ben Hamida, M. Schoenauer. ASCHEA: new results using adaptive segregational constraint handling. IEEE CEC 2002.\nS. Ben Hamida, M. Schoenauer. An adaptive algorithm for constrained optimization problems. PPSN VI, Springer LNCS, 2000.\nS. Ben Hamida, A. Petrowski. The need for improving the exploration operators for constrained optimization problems. IEEE CEC 2000. doi\nS. Ben Hamida, A. Racine, M. Schoenauer. Two evolutionary approaches to design phase plate for tailoring focal-plane irradiance profile. Artificial Evolution (EA’99), Springer LNCS, 2000.\nA. Petrowski, S. Ben Hamida. A logarithmic mutation operator to solve constrained optimization problems. GECCO 1999 (abstract).\nA. Racine, S. Ben Hamida, M. Schoenauer. Parametric coding vs genetic programming: a case study. EuroGP’99, late-breaking papers.",
     "crumbs": [
       "EN",
       "Publications"
@@ -154,289 +418,113 @@
     ]
   },
   {
-    "objectID": "fr/encadrement.html",
-    "href": "fr/encadrement.html",
-    "title": "Encadrement",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & service",
     "section": "",
-    "text": "En cours\n\nSoumaya Sabbehi (2025–) — Système hybride de machine learning multimodal et graphes de connaissances pour la prédiction et le suivi de la maladie de Crohn. Cotutelle entre l’Université Paris Dauphine–PSL (LAMSADE) et l’École Polytechnique de Tunisie (laboratoire RISC) ; codirection avec Safya Belghith (ENIT, directrice du laboratoire RISC).\nOlivia Mu (2024–) — Les objectifs européens de décarbonation du secteur automobile : quels facteurs pour les atteindre à l’horizon 2050 ? Thèse CIFRE avec AAAdata ; codirection avec Marc Baudry (EconomiX, Université Paris Nanterre).\n\nSoutenues\n\nHouria Braikia (2022–2026) — Application de techniques d’apprentissage automatique multi-paradigmes pour prédire la qualité écologique des environnements marins à l’aide de données d’ADN environnemental. Codirection avec Marta Rukoz (LAMSADE), contrat doctoral Dauphine–PSL. Soutenue le 28 avril 2026 (page de soutenance).\nMarwa Ben M’Barek (2018–2022) — Détection de communautés dans les grands réseaux. Application aux réseaux d’interactions de gènes. Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Soutenue le 14 octobre 2022 (page de soutenance). Best Student Paper Award, KES 2018.\nHmida Hmida (2015–2019) — Extension des programmes génétiques pour l’apprentissage supervisé à partir de très larges bases de données (Big Data). Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Code : gp-spark.\nWafa Abdelmalek (soutenue en 2011) — Prédiction de la volatilité implicite par la programmation génétique. Co-encadrement avec Fathi Abid (MODESFI, Université de Sfax).",
+    "text": "More than 25 years of teaching, from bachelor to doctoral level, in initial and work-study programmes, for computer science and non-computer-science audiences.",
     "crumbs": [
-      "FR",
-      "Encadrement"
+      "EN",
+      "Teaching & service"
     ]
   },
   {
-    "objectID": "fr/encadrement.html#thèses-de-doctorat-6-co-encadrées-4-soutenues-2-en-cours",
-    "href": "fr/encadrement.html#thèses-de-doctorat-6-co-encadrées-4-soutenues-2-en-cours",
-    "title": "Encadrement",
-    "section": "",
-    "text": "En cours\n\nSoumaya Sabbehi (2025–) — Système hybride de machine learning multimodal et graphes de connaissances pour la prédiction et le suivi de la maladie de Crohn. Cotutelle entre l’Université Paris Dauphine–PSL (LAMSADE) et l’École Polytechnique de Tunisie (laboratoire RISC) ; codirection avec Safya Belghith (ENIT, directrice du laboratoire RISC).\nOlivia Mu (2024–) — Les objectifs européens de décarbonation du secteur automobile : quels facteurs pour les atteindre à l’horizon 2050 ? Thèse CIFRE avec AAAdata ; codirection avec Marc Baudry (EconomiX, Université Paris Nanterre).\n\nSoutenues\n\nHouria Braikia (2022–2026) — Application de techniques d’apprentissage automatique multi-paradigmes pour prédire la qualité écologique des environnements marins à l’aide de données d’ADN environnemental. Codirection avec Marta Rukoz (LAMSADE), contrat doctoral Dauphine–PSL. Soutenue le 28 avril 2026 (page de soutenance).\nMarwa Ben M’Barek (2018–2022) — Détection de communautés dans les grands réseaux. Application aux réseaux d’interactions de gènes. Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Soutenue le 14 octobre 2022 (page de soutenance). Best Student Paper Award, KES 2018.\nHmida Hmida (2015–2019) — Extension des programmes génétiques pour l’apprentissage supervisé à partir de très larges bases de données (Big Data). Cotutelle avec l’Université de Tunis El Manar ; co-encadrement avec Marta Rukoz et Amel Borgi (LIPAH). Code : gp-spark.\nWafa Abdelmalek (soutenue en 2011) — Prédiction de la volatilité implicite par la programmation génétique. Co-encadrement avec Fathi Abid (MODESFI, Université de Sfax).",
+    "objectID": "teaching.html#doctoral-courses-dauphinepsl-doctoral-school",
+    "href": "teaching.html#doctoral-courses-dauphinepsl-doctoral-school",
+    "title": "Teaching & service",
+    "section": "Doctoral courses (Dauphine–PSL doctoral school)",
+    "text": "Doctoral courses (Dauphine–PSL doctoral school)\n\nEvolutionary Machine Learning (18 h): genetic programming for symbolic regression and interpretable classification, evolutionary clustering and community detection, scaling, evolutionary ensemble learning, feature selection and construction, hyperparameter optimization, neuroevolution.\nEvolutionary Algorithms for Optimization and Machine Learning (18 h, 2019).",
     "crumbs": [
-      "FR",
-      "Encadrement"
+      "EN",
+      "Teaching & service"
     ]
   },
   {
-    "objectID": "fr/encadrement.html#mémoires-de-recherche-sélection",
-    "href": "fr/encadrement.html#mémoires-de-recherche-sélection",
-    "title": "Encadrement",
-    "section": "Mémoires de recherche (sélection)",
-    "text": "Mémoires de recherche (sélection)\n\nR. Sena (M2 IASD, Dauphine–PSL, 2021) — déséquilibre des classes en diagnostic médical → Best Paper Award, ICIKS 2023.\nG. Benjelloun (M2 IASD, Dauphine–PSL, 2019) — échantillonnage actif vs parallélisation Spark pour la programmation génétique.\nMémoires avec le LAMSADE et le laboratoire RISC–ENIT (2025–2026) : apprentissage fédéré et métaheuristiques, réduction de dimension pour le microbiome, IA explicable pour la prédiction des MICI.",
+    "objectID": "teaching.html#current-teaching-université-paris-nanterre",
+    "href": "teaching.html#current-teaching-université-paris-nanterre",
+    "title": "Teaching & service",
+    "section": "Current teaching (Université Paris Nanterre)",
+    "text": "Current teaching (Université Paris Nanterre)\n\nMachine learning (M2 MIAGE, M2 D3S): regression, classification, clustering, ensemble learning, sampling, model selection.\nDatabases and NoSQL (L2 to M1): relational model, advanced SQL, query optimization, MongoDB, Neo4j, Cassandra.\nPython for data analysis (M1–M2 economics): NumPy, Pandas, visualization.\n\nAlso: Advanced Machine Learning II (in English, ESILV, 2024–2025); Advanced databases (M2 IASD, Dauphine–PSL, 2023–2026).",
     "crumbs": [
-      "FR",
-      "Encadrement"
+      "EN",
+      "Teaching & service"
     ]
   },
   {
-    "objectID": "fr/encadrement.html#jurys-et-suivi-de-thèses",
-    "href": "fr/encadrement.html#jurys-et-suivi-de-thèses",
-    "title": "Encadrement",
-    "section": "Jurys et suivi de thèses",
-    "text": "Jurys et suivi de thèses\n\nRapporteure : Sorbonne Université – LIP6 (2024, 2026), Université Paris 8 (2026), Université Paris-Est Créteil (2025).\nExaminatrice : Université Savoie Mont Blanc (2024).\nComités de suivi individuel (CSI) : doctorants de première année du LAMSADE (depuis 2024), Université Paris 8, Université Savoie Mont Blanc.",
+    "objectID": "teaching.html#responsibilities",
+    "href": "teaching.html#responsibilities",
+    "title": "Teaching & service",
+    "section": "Responsibilities",
+    "text": "Responsibilities\n\nCo-director of the master’s programme IES–D3S (Data Science for Social Sciences), Université Paris Nanterre (since 2022).\nMember of the computer science discipline committee (section 27), Université Paris Nanterre (since 2017).\nVice-chair (2024) and member (2013, 2021) of recruitment committees.\nUniversity coordinator of the Digital Skills course (over 2,000 students per semester, 2015–2020).\nFormer head of the Applied Computer Science department, ESTI Tunis (2004–2008).",
     "crumbs": [
-      "FR",
-      "Encadrement"
+      "EN",
+      "Teaching & service"
     ]
   },
   {
-    "objectID": "fr/enseignement.html",
-    "href": "fr/enseignement.html",
-    "title": "Enseignement et responsabilités",
-    "section": "",
-    "text": "Plus de 25 ans d’enseignement de la licence au doctorat, en formation initiale et en apprentissage, auprès de publics informaticiens et non informaticiens.",
+    "objectID": "teaching.html#scientific-community",
+    "href": "teaching.html#scientific-community",
+    "title": "Teaching & service",
+    "section": "Scientific community",
+    "text": "Scientific community\n\nProgram committees: ICIKS (2021, 2023, 2025), Artificial Evolution 2017, PPSN 2002 and 2004.\nReviewer for: Applied Intelligence (Springer, 7 reviews since 2021), SoftwareX (Elsevier, 2026), Expert Systems with Applications (Elsevier, since 2020), Journal of Multi-Criteria Decision Analysis (Wiley, since 2024); formerly Evolutionary Computation (MIT Press) and Quantitative Finance. Verified reviews: ORCID.\nEvent organization: track coordinator and session chair, IEEE AIDIST 2026 (Gammarth, Tunisia, 2026); track chair, ICIKS 2023.\nScientific committee of the research consortium BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisia), since 2025.\nOutreach: 1 scientifique – 1 classe : Chiche ! programme (since 2022).",
     "crumbs": [
-      "FR",
-      "Enseignement et responsabilités"
+      "EN",
+      "Teaching & service"
     ]
   },
   {
-    "objectID": "fr/enseignement.html#enseignements-doctoraux-école-doctorale-de-dauphinepsl",
-    "href": "fr/enseignement.html#enseignements-doctoraux-école-doctorale-de-dauphinepsl",
-    "title": "Enseignement et responsabilités",
-    "section": "Enseignements doctoraux (école doctorale de Dauphine–PSL)",
-    "text": "Enseignements doctoraux (école doctorale de Dauphine–PSL)\n\nEvolutionary Machine Learning (18 h) : programmation génétique pour la régression symbolique et la classification interprétable, clustering évolutionnaire et détection de communautés, passage à l’échelle, apprentissage d’ensemble évolutionnaire, sélection et construction d’attributs, optimisation des hyperparamètres, neuro-évolution.\nEvolutionary Algorithms for Optimization and Machine Learning (18 h, 2019).",
+    "objectID": "teaching.html#invited-talks-and-tutorials-selection",
+    "href": "teaching.html#invited-talks-and-tutorials-selection",
+    "title": "Teaching & service",
+    "section": "Invited talks and tutorials (selection)",
+    "text": "Invited talks and tutorials (selection)\n\nAdvanced Machine Learning: Ensemble, Active and Evolutionary Learning — RISC laboratory, ENIT, Tunis, 2023.\nTrends to Scale Machine Learning Algorithms for Big Data Analytics — CUPS 2023 PhD Symposium, Tunis; Microservices and Big Data Management school, Nanterre, 2023.\nGenetic Programming as an Advanced Machine Learning Technique for Big Data Mining — Nanterre, 2019.",
     "crumbs": [
-      "FR",
-      "Enseignement et responsabilités"
+      "EN",
+      "Teaching & service"
     ]
   },
   {
-    "objectID": "fr/enseignement.html#enseignements-actuels-université-paris-nanterre",
-    "href": "fr/enseignement.html#enseignements-actuels-université-paris-nanterre",
-    "title": "Enseignement et responsabilités",
-    "section": "Enseignements actuels (Université Paris Nanterre)",
-    "text": "Enseignements actuels (Université Paris Nanterre)\n\nApprentissage automatique (M2 MIAGE, M2 D3S) : régression, classification, clustering, apprentissage d’ensemble, échantillonnage, sélection de modèles.\nBases de données et NoSQL (L2 à M1) : modèle relationnel, SQL avancé, optimisation de requêtes, MongoDB, Neo4j, Cassandra.\nPython pour l’analyse de données (M1–M2 économie) : NumPy, Pandas, visualisation.\n\nÉgalement : Advanced Machine Learning II (en anglais, ESILV, 2024–2025) ; Bases de données avancées (M2 IASD, Dauphine–PSL, 2023–2026).",
-    "crumbs": [
-      "FR",
-      "Enseignement et responsabilités"
-    ]
-  },
-  {
-    "objectID": "fr/enseignement.html#responsabilités",
-    "href": "fr/enseignement.html#responsabilités",
-    "title": "Enseignement et responsabilités",
-    "section": "Responsabilités",
-    "text": "Responsabilités\n\nCo-responsable du master IES–D3S (Data Science for Social Sciences), Université Paris Nanterre (depuis 2022).\nMembre de la commission consultative de discipline (section 27), Université Paris Nanterre (depuis 2017).\nVice-présidente (2024) et membre (2013, 2021) de comités de sélection.\nCorrespondante établissement du cours Compétences numériques (plus de 2 000 étudiants par semestre, 2015–2020).\nAncienne directrice du département Informatique appliquée, ESTI Tunis (2004–2008).",
-    "crumbs": [
-      "FR",
-      "Enseignement et responsabilités"
-    ]
-  },
-  {
-    "objectID": "fr/enseignement.html#communauté-scientifique",
-    "href": "fr/enseignement.html#communauté-scientifique",
-    "title": "Enseignement et responsabilités",
-    "section": "Communauté scientifique",
-    "text": "Communauté scientifique\n\nComités de programme : ICIKS (2021, 2023, 2025), Artificial Evolution 2017, PPSN 2002 et 2004.\nRelectrice pour : Applied Intelligence (Springer, 7 relectures depuis 2021), SoftwareX (Elsevier, 2026), Expert Systems with Applications (Elsevier, depuis 2020), Journal of Multi-Criteria Decision Analysis (Wiley, depuis 2024) ; auparavant Evolutionary Computation (MIT Press) et Quantitative Finance. Relectures vérifiées : ORCID.\nOrganisation : coordinatrice d’axe et présidente de séance, IEEE AIDIST 2026 (Gammarth, Tunisie, 2026) ; track chair, ICIKS 2023.\nComité scientifique du consortium de recherche BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisie), depuis 2025.\nMédiation scientifique : programme 1 scientifique – 1 classe : Chiche ! (depuis 2022).",
-    "crumbs": [
-      "FR",
-      "Enseignement et responsabilités"
-    ]
-  },
-  {
-    "objectID": "fr/enseignement.html#conférences-invitées-et-tutoriels-sélection",
-    "href": "fr/enseignement.html#conférences-invitées-et-tutoriels-sélection",
-    "title": "Enseignement et responsabilités",
-    "section": "Conférences invitées et tutoriels (sélection)",
-    "text": "Conférences invitées et tutoriels (sélection)\n\nAdvanced Machine Learning: Ensemble, Active and Evolutionary Learning — laboratoire RISC, ENIT, Tunis, 2023.\nTrends to Scale Machine Learning Algorithms for Big Data Analytics — CUPS 2023, Tunis ; école thématique Microservices and Big Data Management, Nanterre, 2023.\nGenetic Programming as an Advanced Machine Learning Technique for Big Data Mining — Nanterre, 2019.",
-    "crumbs": [
-      "FR",
-      "Enseignement et responsabilités"
-    ]
-  },
-  {
-    "objectID": "fr/projets.html",
-    "href": "fr/projets.html",
-    "title": "Projets et collaborations",
-    "section": "",
-    "text": "Consortium BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisie). Membre du comité scientifique, depuis 2025.\nApprentissage automatique pour le microbiote intestinal et les MICI — collaboration avec le laboratoire RISC (ENIT, Université de Tunis El Manar), depuis 2024 : co-encadrement de mémoires de recherche, publications communes (ICIKS 2025) et thèse en cotutelle (Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nApprentissage automatique pour la qualité écologique marine à partir de l’ADN environnemental (depuis 2022) — lancé avec un contrat doctoral Dauphine–PSL (thèse de H. Braikia, soutenue en 2026, avec M. Rukoz) ; prépublication recommandée par PCI Genomics ; travaux et publications en cours.\nProgrammation génétique à grande échelle et détection de communautés dans les réseaux biologiques (depuis 2015) — deux thèses en cotutelle entre Dauphine–PSL (LAMSADE) et l’Université de Tunis El Manar (LIPAH, A. Borgi), soutenues en 2019 et 2022 ; travaux et publications en cours.\nThèse CIFRE avec AAAdata (2024–2027) — objectifs européens de décarbonation du secteur automobile ; codirection avec EconomiX (Université Paris Nanterre).",
-    "crumbs": [
-      "FR",
-      "Projets et collaborations"
-    ]
-  },
-  {
-    "objectID": "fr/projets.html#en-cours",
-    "href": "fr/projets.html#en-cours",
-    "title": "Projets et collaborations",
-    "section": "",
-    "text": "Consortium BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisie). Membre du comité scientifique, depuis 2025.\nApprentissage automatique pour le microbiote intestinal et les MICI — collaboration avec le laboratoire RISC (ENIT, Université de Tunis El Manar), depuis 2024 : co-encadrement de mémoires de recherche, publications communes (ICIKS 2025) et thèse en cotutelle (Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nApprentissage automatique pour la qualité écologique marine à partir de l’ADN environnemental (depuis 2022) — lancé avec un contrat doctoral Dauphine–PSL (thèse de H. Braikia, soutenue en 2026, avec M. Rukoz) ; prépublication recommandée par PCI Genomics ; travaux et publications en cours.\nProgrammation génétique à grande échelle et détection de communautés dans les réseaux biologiques (depuis 2015) — deux thèses en cotutelle entre Dauphine–PSL (LAMSADE) et l’Université de Tunis El Manar (LIPAH, A. Borgi), soutenues en 2019 et 2022 ; travaux et publications en cours.\nThèse CIFRE avec AAAdata (2024–2027) — objectifs européens de décarbonation du secteur automobile ; codirection avec EconomiX (Université Paris Nanterre).",
-    "crumbs": [
-      "FR",
-      "Projets et collaborations"
-    ]
-  },
-  {
-    "objectID": "fr/projets.html#projets-et-contrats-passés",
-    "href": "fr/projets.html#projets-et-contrats-passés",
-    "title": "Projets et collaborations",
-    "section": "Projets et contrats passés",
-    "text": "Projets et contrats passés\n\nDIGITAL-SKILLS (2018–2019) — projet d’innovation pédagogique financé par la ComUE Université Paris Lumières (AMI) ; co-porteuse.\nTournées de véhicules et opérateurs génétiques — collaboration de recherche avec InstaDeep (ICSOFT 2020).\nCalibration évolutionnaire de modèles d’options (2002–2004) — collaboration de recherche avec le Crédit Commercial de France (groupe HSBC), avec R. Cont ; prix de l’Institut Europlace de Finance.\nRéseau européen INGENET (Networked Industrial Design and Control Applications using Genetic Algorithms and Evolution Strategies, 1998–2000) — représentante du CMAP, École polytechnique.",
-    "crumbs": [
-      "FR",
-      "Projets et collaborations"
-    ]
-  },
-  {
-    "objectID": "fr/projets.html#collaborations",
-    "href": "fr/projets.html#collaborations",
-    "title": "Projets et collaborations",
-    "section": "Collaborations",
-    "text": "Collaborations\n\nAcadémiques : LAMSADE, Dauphine–PSL (M. Rukoz, T. Cazenave) ; LIPAH, Université de Tunis El Manar (A. Borgi) ; laboratoire RISC, ENIT (S. Belghith, W. Mefteh) ; EconomiX, Université Paris Nanterre (M. Baudry) ; MODESFI, Université de Sfax (F. Abid).\nIndustrielles : AAAdata, InstaDeep, CCF–HSBC.",
-    "crumbs": [
-      "FR",
-      "Projets et collaborations"
-    ]
-  },
-  {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Sana Ben Hamida",
     "section": "",
-    "text": "Université Paris Nanterre — UFR SEGMI, département Mathématiques et Informatique\nLAMSADE (UMR CNRS 7243), Université Paris Dauphine–PSL — chercheuse associée",
+    "text": "Université Paris Nanterre — UFR SEGMI, Department of Mathematics and Computer Science\nLAMSADE (UMR CNRS 7243), Université Paris Dauphine–PSL — associate researcher",
     "crumbs": [
-      "FR",
-      "Accueil"
+      "EN",
+      "Home"
     ]
   },
   {
-    "objectID": "fr/index.html#présentation",
-    "href": "fr/index.html#présentation",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
     "title": "Sana Ben Hamida",
-    "section": "Présentation",
-    "text": "Présentation\nMes recherches se situent à l’interface du calcul évolutionnaire et de l’apprentissage automatique. Je développe des méthodes d’apprentissage évolutionnaire — programmation génétique, échantillonnage actif et adaptatif, apprentissage d’ensemble, approches hybrides — capables de passer à l’échelle sur des données volumineuses, de grande dimension et déséquilibrées. Depuis 2022, ces travaux portent principalement sur la bio-informatique, l’environnement et la santé : prédiction de la qualité écologique des milieux marins à partir de données d’ADN environnemental et de microbiome, prédiction des maladies inflammatoires chroniques de l’intestin, avec une attention particulière à l’explicabilité des modèles.\nDocteure de l’École polytechnique (2001, sous la direction de Marc Schoenauer) et habilitée à diriger des recherches (Université Paris Dauphine–PSL, 2024, tel-05787780), je compte plus de 25 ans d’expérience dans l’enseignement supérieur, de la licence au doctorat.\n\n\n6thèses co-encadrées (4 soutenues)\n\n\n41publications avec comité de lecture (revues, chapitres, conférences internationales)\n\n\n1ouvrage de référence (ISTE–Wiley, 2017)\n\n\n13articles dans des conférences CORE A/B\n\n\n2prix de meilleur article (ICIKS 2023, KES 2018)\n\n\n5jurys de thèse (dont 4 comme rapporteure)",
+    "section": "About",
+    "text": "About\nMy research lies at the interface of evolutionary computation and machine learning. I develop evolutionary learning methods — genetic programming, active and adaptive sampling, ensemble and hybrid approaches — that scale to large, high-dimensional and imbalanced data. Since 2022, this work has focused on bioinformatics, environment and health: predicting the ecological quality of marine environments from environmental DNA and microbiome data, predicting inflammatory bowel diseases, with particular attention to the explainability of models.\nI received my PhD from École polytechnique (2001, advisor: Marc Schoenauer) and my habilitation (HDR) from Université Paris Dauphine–PSL (2024, tel-05787780). I have more than 25 years of experience in higher education, from bachelor to doctoral level.\n\n\n6PhD theses co-supervised (4 defended)\n\n\n41peer-reviewed publications (journals, book chapters, international conferences)\n\n\n1reference book (ISTE–Wiley, 2017)\n\n\n13papers in CORE A/B conferences\n\n\n2best paper awards (ICIKS 2023, KES 2018)\n\n\n5PhD juries (4 as reviewer)",
     "crumbs": [
-      "FR",
-      "Accueil"
+      "EN",
+      "Home"
     ]
   },
   {
-    "objectID": "fr/index.html#actualités",
-    "href": "fr/index.html#actualités",
+    "objectID": "index.html#news",
+    "href": "index.html#news",
     "title": "Sana Ben Hamida",
-    "section": "Actualités",
-    "text": "Actualités\n\nOctobre 2026 — Coordination de l’axe « L’IA comme levier de résilience écologique », colloque international IEEE AIDIST 2026, Gammarth, Tunisie, 29–31 octobre 2026 ; présidence de la séance 1.\nAvril 2026 — Soutenance de thèse de Houria Braikia sur l’apprentissage multi-paradigmes pour la qualité écologique marine (page de soutenance).\n2026 — Notre prépublication Explainable AI for marine ecological quality prediction (hal-05046103) est recommandée par Peer Community In Genomics.\n2025 — Début de la thèse de Soumaya Sabbehi sur le machine learning multimodal et les graphes de connaissances pour la maladie de Crohn (cotutelle Dauphine–PSL / École Polytechnique de Tunisie).",
+    "section": "News",
+    "text": "News\n\nOctober 2026 — Coordination of the track AI as a lever for ecological resilience, IEEE AIDIST 2026 international conference, Gammarth, Tunisia, 29–31 October 2026; chair of session 1.\nApril 2026 — Houria Braikia defended her PhD on multi-paradigm machine learning for marine ecological quality (defence page).\n2026 — Our preprint Explainable AI for marine ecological quality prediction (hal-05046103) was recommended by Peer Community In Genomics.\n2025 — Start of the PhD of Soumaya Sabbehi on multimodal machine learning and knowledge graphs for Crohn’s disease (cotutelle Dauphine–PSL / École Polytechnique de Tunisie).",
     "crumbs": [
-      "FR",
-      "Accueil"
+      "EN",
+      "Home"
     ]
   },
   {
-    "objectID": "fr/index.html#contact",
-    "href": "fr/index.html#contact",
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
     "title": "Sana Ben Hamida",
     "section": "Contact",
     "text": "Contact\nsbenhami [at] parisnanterre.fr",
     "crumbs": [
-      "FR",
-      "Accueil"
-    ]
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects & collaborations",
-    "section": "",
-    "text": "BleuAct consortium — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisia). Member of the scientific committee, since 2025.\nMachine learning for gut microbiome and inflammatory bowel diseases — collaboration with the RISC laboratory (ENIT, Université de Tunis El Manar), since 2024: joint supervision of research master’s projects, joint publications (ICIKS 2025), and a joint PhD (cotutelle Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nMachine learning for marine ecological quality from environmental DNA (since 2022) — started with a Dauphine–PSL doctoral contract (PhD of H. Braikia, defended 2026, with M. Rukoz); preprint recommended by PCI Genomics; work and publications ongoing.\nScalable genetic programming for big data and community detection in biological networks (since 2015) — two joint PhDs (cotutelles) between Dauphine–PSL (LAMSADE) and Université de Tunis El Manar (LIPAH, A. Borgi), defended in 2019 and 2022; work and publications ongoing.\nCIFRE PhD with AAAdata (2024–2027) — European decarbonisation targets for the automotive sector; co-supervision with EconomiX (Université Paris Nanterre).",
-    "crumbs": [
       "EN",
-      "Projects & collaborations"
-    ]
-  },
-  {
-    "objectID": "projects.html#ongoing",
-    "href": "projects.html#ongoing",
-    "title": "Projects & collaborations",
-    "section": "",
-    "text": "BleuAct consortium — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisia). Member of the scientific committee, since 2025.\nMachine learning for gut microbiome and inflammatory bowel diseases — collaboration with the RISC laboratory (ENIT, Université de Tunis El Manar), since 2024: joint supervision of research master’s projects, joint publications (ICIKS 2025), and a joint PhD (cotutelle Dauphine–PSL / École Polytechnique de Tunisie, S. Sabbehi, 2025–).\nMachine learning for marine ecological quality from environmental DNA (since 2022) — started with a Dauphine–PSL doctoral contract (PhD of H. Braikia, defended 2026, with M. Rukoz); preprint recommended by PCI Genomics; work and publications ongoing.\nScalable genetic programming for big data and community detection in biological networks (since 2015) — two joint PhDs (cotutelles) between Dauphine–PSL (LAMSADE) and Université de Tunis El Manar (LIPAH, A. Borgi), defended in 2019 and 2022; work and publications ongoing.\nCIFRE PhD with AAAdata (2024–2027) — European decarbonisation targets for the automotive sector; co-supervision with EconomiX (Université Paris Nanterre).",
-    "crumbs": [
-      "EN",
-      "Projects & collaborations"
-    ]
-  },
-  {
-    "objectID": "projects.html#past-projects-and-contracts",
-    "href": "projects.html#past-projects-and-contracts",
-    "title": "Projects & collaborations",
-    "section": "Past projects and contracts",
-    "text": "Past projects and contracts\n\nDIGITAL-SKILLS (2018–2019) — pedagogical innovation project funded by ComUE Université Paris Lumières (call for expressions of interest); co-leader.\nVehicle routing with genetic operators — research collaboration with InstaDeep (ICSOFT 2020).\nEvolutionary calibration of option pricing models (2002–2004) — research collaboration with Crédit Commercial de France (HSBC group), with R. Cont; Institut Europlace de Finance prize.\nINGENET European network (Networked Industrial Design and Control Applications using Genetic Algorithms and Evolution Strategies, 1998–2000) — representative of CMAP, École polytechnique.",
-    "crumbs": [
-      "EN",
-      "Projects & collaborations"
-    ]
-  },
-  {
-    "objectID": "projects.html#collaborations",
-    "href": "projects.html#collaborations",
-    "title": "Projects & collaborations",
-    "section": "Collaborations",
-    "text": "Collaborations\n\nAcademic: LAMSADE, Dauphine–PSL (M. Rukoz, T. Cazenave); LIPAH, Université de Tunis El Manar (A. Borgi); RISC laboratory, ENIT (S. Belghith, W. Mefteh); EconomiX, Université Paris Nanterre (M. Baudry); MODESFI, Université de Sfax (F. Abid).\nIndustrial: AAAdata, InstaDeep, CCF–HSBC.",
-    "crumbs": [
-      "EN",
-      "Projects & collaborations"
-    ]
-  },
-  {
-    "objectID": "fr/recherche.html",
-    "href": "fr/recherche.html",
-    "title": "Recherche",
-    "section": "",
-    "text": "Mots-clés : calcul évolutionnaire, programmation génétique, apprentissage automatique évolutionnaire, apprentissage actif, données massives et déséquilibrées, IA explicable, apprentissage sur graphes, ADN environnemental, microbiome marin, microbiote intestinal, maladies inflammatoires chroniques de l’intestin (maladie de Crohn), apprentissage multimodal, graphes de connaissances, bio-informatique, optimisation sous contraintes.",
-    "crumbs": [
-      "FR",
-      "Recherche"
-    ]
-  },
-  {
-    "objectID": "fr/recherche.html#recherches-actuelles",
-    "href": "fr/recherche.html#recherches-actuelles",
-    "title": "Recherche",
-    "section": "Recherches actuelles",
-    "text": "Recherches actuelles\n\n1. Apprentissage évolutionnaire à grande échelle\nProgrammation génétique (PG) pour la classification de données massives : échantillonnage actif et adaptatif des données d’apprentissage, parallélisation avec Apache Spark, approches hybrides et d’ensemble.\n\nAdaptive sampling for active learning with genetic programming — Cognitive Systems Research, 2021. doi\nAlgorithm vs processing manipulation to scale genetic programming to big data mining — Springer, 2023. doi\nGenetic programming over Spark for Higgs boson classification — BIS 2019. doi\nCode : gp-spark (H. Hmida) ; EVAS-GP — échantillonnage actif guidé par la population pour la programmation génétique sur données très déséquilibrées.\n\n\n\n2. Apprentissage automatique pour la biodiversité marine\nPrédiction de la qualité écologique des milieux marins à partir de données d’ADN environnemental (métabarcoding) et de microbiome ; apprentissage supervisé, non supervisé et semi-supervisé sur graphes ; interprétabilité écologique des modèles.\n\nExplainable AI for marine ecological quality prediction — recommandé par PCI Genomics, 2026. hal-05046103\n(AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment — atelier AISE d’ECAI 2025. doi\nThèse de H. Braikia (2026) — page de soutenance.\n\n\n\n3. Apprentissage automatique pour la santé : microbiote intestinal et MICI\nPrédiction précoce et suivi longitudinal des maladies inflammatoires chroniques de l’intestin (MICI), en particulier la maladie de Crohn, à partir du microbiote intestinal et de biomarqueurs cliniques : prétraitement et réduction de dimension des données compositionnelles de microbiome, apprentissage multimodal explicable, graphes de connaissances, apprentissage sur données médicales déséquilibrées. En collaboration avec le laboratoire RISC (ENIT, Tunis).\n\nOptimized preprocessing for IBD classification using microbiome data — ICIKS 2025.\nACTIVE SMOTE for imbalanced medical data classification — ICIKS 2023 Best Paper Award doi\nThèse en cours de S. Sabbehi : machine learning multimodal hybride et graphes de connaissances pour la maladie de Crohn.\n\n\n\n4. Algorithmes évolutionnaires pour les réseaux biologiques\nDétection de communautés de tailles variables dans les réseaux d’interactions protéine–protéine (PPI), combinant similarité sémantique (Gene Ontology) et topologie.\n\nGA-PPI-Net: a genetic algorithm for community detection in PPI networks — Springer CCIS, 2020. doi\nGenetic algorithm for community detection in biological networks — KES 2018 Best Student Paper Award doi",
-    "crumbs": [
-      "FR",
-      "Recherche"
-    ]
-  },
-  {
-    "objectID": "fr/recherche.html#recherches-antérieures",
-    "href": "fr/recherche.html#recherches-antérieures",
-    "title": "Recherche",
-    "section": "Recherches antérieures",
-    "text": "Recherches antérieures\n\nRégression symbolique et finance computationnelle — calibration de modèles d’options et prévision de la volatilité implicite par algorithmes évolutionnaires et PG ; découverte d’expressions par Monte-Carlo imbriqué. Journal of Computational Finance 2005 (avec R. Cont, doi) ; Computational Intelligence 2016 (doi).\nOptimisation évolutionnaire sous contraintes et combinatoire — prise en compte adaptative des contraintes (ASCHEA, PPSN 2000 et CEC 2002, avec M. Schoenauer), opérateurs génétiques pour les tournées de véhicules, ordonnancement de workflows dans le cloud. Thèse de doctorat : tel-03086421.",
-    "crumbs": [
-      "FR",
-      "Recherche"
-    ]
-  },
-  {
-    "objectID": "fr/recherche.html#collaborations",
-    "href": "fr/recherche.html#collaborations",
-    "title": "Recherche",
-    "section": "Collaborations",
-    "text": "Collaborations\nVoir Projets et collaborations.",
-    "crumbs": [
-      "FR",
-      "Recherche"
+      "Home"
     ]
   },
   {
@@ -510,7 +598,7 @@
     "href": "fr/publications.html#communications-et-ateliers",
     "title": "Publications",
     "section": "Communications et ateliers",
-    "text": "Communications et ateliers\n\n\n2024\n\nH. Braikia, S. Ben Hamida, M. Rukoz. Random Forest Classifier for Marine Biodiversity Analysis. 2024 International Conference on Intelligent Systems and Computer Vision (ISCV), 2024. hal-04673568 · doi\n\n\n\n2023\n\nR. Sena, S. Ben Hamida. ACTIVE SMOTE for Imbalanced Medical Data Classification. International Conference on Information and Knowledge Systems, 2023. hal-04462505 · doi\n\n\n\n2021\n\nS. Ben Hamida, G. Benjelloun. Extending DEAP with Active Sampling for Evolutionary Supervised Learning. Proceedings of the 16th International Conference on Software Technologies, ICSOFT 2021, 2021. hal-03363085\n\n\n\n2019\n\nM. Ben M’barek, A. Borgi, S. Ben Hmida, M. Rukoz. GA-PPI-Net. 14th International Conference, ICSOFT 2019 (Revised Selected Papers), 2019. hal-05793222 · doi\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. Genetic Algorithm to Detect Different Sizes’ Communities from Protein-Protein Interaction Networks. 14th International Conference on Software Technologies, 2019. hal-02286178 · doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Genetic Programming over Spark for Higgs Boson Classification. 22nd International Conference Business Information Systems, 2019. hal-02286136 · doi\n\n\n\n2016\n\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Hierarchical Data Topology Based Selection for Large Scale Learning. 2016 Intl IEEE Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld), 2016. hal-02286148 · doi\nS. Ben Hamida, M. Rukoz. Tuning Active Sampling Techniques for Evolutionary Learner from Big Data Sets: Review and Discussion. UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld (2016 Intl IEEE Conferences), 2016. hal-01448255 · doi\n\n\n\n2015\n\nT. Cazenave, S. Ben Hamida. Forecasting Financial Volatility Using Nested Monte Carlo Expression Discovery. 2015 IEEE Symposium Series on Computational Intelligence (SSCI), 2015. hal-02476560 · doi\n\n\n\n2006\n\nS. Ben Hamida, M. Mrad. Optimal Quantization : Evolutionary Algorithm vs Stochastic Gradient. 9th Joint Conference on Information Sciences, 2006. hal-02490713 · doi\n\n\n\n2000\n\nS. Ben Hamida, M. Schoenauer. An Adaptive Algorithm for constrained optimization problems. PPSN 2000, 2000. inria-00001273\nS. Ben Hamida, A. Petrowski. The need for improving the exploration operators for constrained optimization problems. 2000 Congress on Evolutionary Computation, 2000. hal-02490606 · doi",
+    "text": "Communications et ateliers\n\n\n2025–2026\n\nS. Sabbehi, W. Mefteh, S. Ben Hamida. Optimized preprocessing for IBD classification using microbiome data. ICIKS 2025, Springer LNBIP (to appear).\nS. Ben Hamida, T. S. Abdoulaye, H. Braikia. An integrated framework for microbiome data analysis in marine biodiversity studies. ICIKS 2025, Springer LNBIP (to appear).\nH. Braikia, S. Ben Hamida, M. Rukoz. Unsupervised machine learning for predicting marine ecological quality based on microbiome data. KES-IDT 2025, Springer, 2026. doi\nH. Braikia, S. Ben Hamida, M. Rukoz. (AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment. AISE workshop, ECAI 2025. doi\nH. Braikia, S. Ben Hamida, M. Rukoz. Efficient data preprocessing for ecological quality assessment in marine environments. ICAISE 2024, Springer LNNS, 2025. doi\n\n\n\n2023–2024\n\nH. Braikia, S. Ben Hamida, M. Rukoz. Random forest classifier for marine biodiversity analysis. ISCV 2024, IEEE. doi\nM. Ben M’Barek, S. Ben Hamida, A. Borgi, M. Rukoz. Evolutionary graph-clustering vs evolutionary cluster-detection approaches for community identification in PPI networks. ICIKS 2023, Springer LNBIP, 2024. doi\nR. Sena, S. Ben Hamida. ACTIVE SMOTE for imbalanced medical data classification. ICIKS 2023, Springer LNBIP, 2024. doi Best Paper Award\n\n\n\n2019–2021\n\nM. Ben M’Barek, S. Ben Hamida, A. Borgi, M. Rukoz. GA-PPI-Net approach vs analytical approaches for community detection in PPI networks. KES 2021, Procedia Computer Science. doi\nS. Ben Hamida, G. Benjelloun. Extending DEAP with active sampling for evolutionary supervised learning. ICSOFT 2021, SciTePress.\nS. Ben Hamida, G. Benjelloun, H. Hmida. Trends of evolutionary machine learning to address big data mining. ICIKS 2021, Springer LNBIP. doi\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. Generic GA-PPI-Net: generic evolutionary algorithm to detect semantic and topological biological communities. ICSOFT 2020, SciTePress. doi\nS. Ben Hamida, R. Gorsane, K. Gorsan Mestiri. Towards a better understanding of genetic operators for ordering optimization: application to the capacitated vehicle routing problem. ICSOFT 2020, SciTePress.\nK. Bousselmi, S. Ben Hamida, M. Rukoz. Bi-objective CSO for big data scientific workflows scheduling in the cloud: case of LIGO workflow. ICSOFT 2020, SciTePress.\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. GA-PPI-Net: a genetic algorithm for community detection in protein–protein interaction networks. Software Technologies, Springer CCIS, 2020. doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Genetic programming over Spark for Higgs boson classification. BIS 2019, Springer LNBIP. doi\nM. Ben M’Barek, A. Borgi, S. Ben Hamida, M. Rukoz. Genetic algorithm to detect different sizes’ communities from protein–protein interaction networks. ICSOFT 2019, SciTePress. doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. A new adaptive sampling approach for genetic programming. ICDS 2019, IEEE.\n\n\n\n2015–2018\n\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Scale genetic programming for large data sets: case of Higgs bosons classification. KES 2018, Procedia Computer Science. doi\nM. Ben M’Barek, A. Borgi, W. Bedhiafi, S. Ben Hamida. Genetic algorithm for community detection in biological networks. KES 2018, Procedia Computer Science. doi Best Student Paper Award\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Sampling methods in genetic programming learners from large datasets: a comparative study. INNS Big Data 2016, Springer. doi\nS. Ben Hamida, M. Rukoz. Tuning active sampling techniques for evolutionary learner from big data sets: review and discussion. Workshop on High Performance Big Data Computing, IEEE 2016. doi\nH. Hmida, S. Ben Hamida, A. Borgi, M. Rukoz. Hierarchical data topology based selection for large scale learning. Workshop on High Performance Big Data Computing, IEEE 2016. doi\nT. Cazenave, S. Ben Hamida. Forecasting financial volatility using nested Monte Carlo expression discovery. IEEE SSCI 2015. doi\n\n\n\nBefore 2015\n\nM. Mrad, S. Ben Hamida. Optimal quantization: evolutionary algorithm vs stochastic gradient. JCIS 2006. doi\nS. Ben Hamida, M. Schoenauer. ASCHEA: new results using adaptive segregational constraint handling. IEEE CEC 2002.\nS. Ben Hamida, M. Schoenauer. An adaptive algorithm for constrained optimization problems. PPSN VI, Springer LNCS, 2000.\nS. Ben Hamida, A. Petrowski. The need for improving the exploration operators for constrained optimization problems. IEEE CEC 2000. doi\nS. Ben Hamida, A. Racine, M. Schoenauer. Two evolutionary approaches to design phase plate for tailoring focal-plane irradiance profile. Artificial Evolution (EA’99), Springer LNCS, 2000.\nA. Petrowski, S. Ben Hamida. A logarithmic mutation operator to solve constrained optimization problems. GECCO 1999 (abstract).\nA. Racine, S. Ben Hamida, M. Schoenauer. Parametric coding vs genetic programming: a case study. EuroGP’99, late-breaking papers.",
     "crumbs": [
       "FR",
       "Publications"
@@ -550,157 +638,69 @@
     ]
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "fr/enseignement.html",
+    "href": "fr/enseignement.html",
+    "title": "Enseignement et responsabilités",
     "section": "",
-    "text": "Keywords: evolutionary computation, genetic programming, evolutionary machine learning, active learning, large-scale and imbalanced data, explainable AI, graph-based learning, environmental DNA, marine microbiome, gut microbiome, inflammatory bowel diseases (Crohn’s disease), multimodal learning, knowledge graphs, bioinformatics, constrained optimization.",
+    "text": "Plus de 25 ans d’enseignement de la licence au doctorat, en formation initiale et en apprentissage, auprès de publics informaticiens et non informaticiens.",
     "crumbs": [
-      "EN",
-      "Research"
+      "FR",
+      "Enseignement et responsabilités"
     ]
   },
   {
-    "objectID": "research.html#current-research",
-    "href": "research.html#current-research",
-    "title": "Research",
-    "section": "Current research",
-    "text": "Current research\n\n1. Scalable evolutionary machine learning\nGenetic programming (GP) for the classification of large data sets: active and adaptive sampling of training data, parallelization with Apache Spark, hybrid and ensemble approaches.\n\nAdaptive sampling for active learning with genetic programming — Cognitive Systems Research, 2021. doi\nAlgorithm vs processing manipulation to scale genetic programming to big data mining — Springer, 2023. doi\nGenetic programming over Spark for Higgs boson classification — BIS 2019. doi\nCode: gp-spark (H. Hmida); EVAS-GP — population-guided active sampling for genetic programming on highly imbalanced data.\n\n\n\n2. Machine learning for marine biodiversity\nPredicting the ecological quality of marine environments from environmental DNA (metabarcoding) and microbiome data; supervised, unsupervised and semi-supervised learning on graphs; ecological interpretability of models.\n\nExplainable AI for marine ecological quality prediction — recommended by PCI Genomics, 2026. hal-05046103\n(AM)BI-LPA: label propagation on microbiome graphs for generalizable ecological quality assessment — ECAI 2025 workshop AISE. doi\nPhD thesis of H. Braikia (2026) — defence page.\n\n\n\n3. Machine learning for health: gut microbiome and inflammatory bowel diseases\nEarly prediction and longitudinal monitoring of inflammatory bowel diseases (IBD), in particular Crohn’s disease, from gut microbiome data and clinical biomarkers: preprocessing and dimensionality reduction of compositional microbiome data, explainable multimodal learning, knowledge graphs, and learning from imbalanced medical data. In collaboration with the RISC laboratory (ENIT, Tunis).\n\nOptimized preprocessing for IBD classification using microbiome data — ICIKS 2025.\nACTIVE SMOTE for imbalanced medical data classification — ICIKS 2023 Best Paper Award doi\nOngoing PhD of S. Sabbehi: hybrid multimodal machine learning and knowledge graphs for Crohn’s disease.\n\n\n\n4. Evolutionary algorithms for biological networks\nDetection of communities of variable sizes in protein–protein interaction (PPI) networks, combining semantic similarity (Gene Ontology) and topology.\n\nGA-PPI-Net: a genetic algorithm for community detection in PPI networks — Springer CCIS, 2020. doi\nGenetic algorithm for community detection in biological networks — KES 2018 Best Student Paper Award doi",
+    "objectID": "fr/enseignement.html#enseignements-doctoraux-école-doctorale-de-dauphinepsl",
+    "href": "fr/enseignement.html#enseignements-doctoraux-école-doctorale-de-dauphinepsl",
+    "title": "Enseignement et responsabilités",
+    "section": "Enseignements doctoraux (école doctorale de Dauphine–PSL)",
+    "text": "Enseignements doctoraux (école doctorale de Dauphine–PSL)\n\nEvolutionary Machine Learning (18 h) : programmation génétique pour la régression symbolique et la classification interprétable, clustering évolutionnaire et détection de communautés, passage à l’échelle, apprentissage d’ensemble évolutionnaire, sélection et construction d’attributs, optimisation des hyperparamètres, neuro-évolution.\nEvolutionary Algorithms for Optimization and Machine Learning (18 h, 2019).",
     "crumbs": [
-      "EN",
-      "Research"
+      "FR",
+      "Enseignement et responsabilités"
     ]
   },
   {
-    "objectID": "research.html#earlier-research",
-    "href": "research.html#earlier-research",
-    "title": "Research",
-    "section": "Earlier research",
-    "text": "Earlier research\n\nSymbolic regression and computational finance — option model calibration and implied volatility forecasting with evolutionary algorithms and GP; nested Monte Carlo expression discovery. Journal of Computational Finance 2005 (with R. Cont, doi); Computational Intelligence 2016 (doi).\nConstrained and combinatorial evolutionary optimization — adaptive constraint handling (ASCHEA, PPSN 2000 and CEC 2002, with M. Schoenauer), genetic operators for vehicle routing, workflow scheduling in the cloud. PhD thesis: tel-03086421.",
+    "objectID": "fr/enseignement.html#enseignements-actuels-université-paris-nanterre",
+    "href": "fr/enseignement.html#enseignements-actuels-université-paris-nanterre",
+    "title": "Enseignement et responsabilités",
+    "section": "Enseignements actuels (Université Paris Nanterre)",
+    "text": "Enseignements actuels (Université Paris Nanterre)\n\nApprentissage automatique (M2 MIAGE, M2 D3S) : régression, classification, clustering, apprentissage d’ensemble, échantillonnage, sélection de modèles.\nBases de données et NoSQL (L2 à M1) : modèle relationnel, SQL avancé, optimisation de requêtes, MongoDB, Neo4j, Cassandra.\nPython pour l’analyse de données (M1–M2 économie) : NumPy, Pandas, visualisation.\n\nÉgalement : Advanced Machine Learning II (en anglais, ESILV, 2024–2025) ; Bases de données avancées (M2 IASD, Dauphine–PSL, 2023–2026).",
     "crumbs": [
-      "EN",
-      "Research"
+      "FR",
+      "Enseignement et responsabilités"
     ]
   },
   {
-    "objectID": "research.html#collaborations",
-    "href": "research.html#collaborations",
-    "title": "Research",
-    "section": "Collaborations",
-    "text": "Collaborations\nSee Projects & collaborations.",
+    "objectID": "fr/enseignement.html#responsabilités",
+    "href": "fr/enseignement.html#responsabilités",
+    "title": "Enseignement et responsabilités",
+    "section": "Responsabilités",
+    "text": "Responsabilités\n\nCo-responsable du master IES–D3S (Data Science for Social Sciences), Université Paris Nanterre (depuis 2022).\nMembre de la commission consultative de discipline (section 27), Université Paris Nanterre (depuis 2017).\nVice-présidente (2024) et membre (2013, 2021) de comités de sélection.\nCorrespondante établissement du cours Compétences numériques (plus de 2 000 étudiants par semestre, 2015–2020).\nAncienne directrice du département Informatique appliquée, ESTI Tunis (2004–2008).",
     "crumbs": [
-      "EN",
-      "Research"
+      "FR",
+      "Enseignement et responsabilités"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sana Ben Hamida",
-    "section": "",
-    "text": "Université Paris Nanterre — UFR SEGMI, Department of Mathematics and Computer Science\nLAMSADE (UMR CNRS 7243), Université Paris Dauphine–PSL — associate researcher",
+    "objectID": "fr/enseignement.html#communauté-scientifique",
+    "href": "fr/enseignement.html#communauté-scientifique",
+    "title": "Enseignement et responsabilités",
+    "section": "Communauté scientifique",
+    "text": "Communauté scientifique\n\nComités de programme : ICIKS (2021, 2023, 2025), Artificial Evolution 2017, PPSN 2002 et 2004.\nRelectrice pour : Applied Intelligence (Springer, 7 relectures depuis 2021), SoftwareX (Elsevier, 2026), Expert Systems with Applications (Elsevier, depuis 2020), Journal of Multi-Criteria Decision Analysis (Wiley, depuis 2024) ; auparavant Evolutionary Computation (MIT Press) et Quantitative Finance. Relectures vérifiées : ORCID.\nOrganisation : coordinatrice d’axe et présidente de séance, IEEE AIDIST 2026 (Gammarth, Tunisie, 2026) ; track chair, ICIKS 2023.\nComité scientifique du consortium de recherche BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisie), depuis 2025.\nMédiation scientifique : programme 1 scientifique – 1 classe : Chiche ! (depuis 2022).",
     "crumbs": [
-      "EN",
-      "Home"
+      "FR",
+      "Enseignement et responsabilités"
     ]
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Sana Ben Hamida",
-    "section": "About",
-    "text": "About\nMy research lies at the interface of evolutionary computation and machine learning. I develop evolutionary learning methods — genetic programming, active and adaptive sampling, ensemble and hybrid approaches — that scale to large, high-dimensional and imbalanced data. Since 2022, this work has focused on bioinformatics, environment and health: predicting the ecological quality of marine environments from environmental DNA and microbiome data, predicting inflammatory bowel diseases, with particular attention to the explainability of models.\nI received my PhD from École polytechnique (2001, advisor: Marc Schoenauer) and my habilitation (HDR) from Université Paris Dauphine–PSL (2024, tel-05787780). I have more than 25 years of experience in higher education, from bachelor to doctoral level.\n\n\n6PhD theses co-supervised (4 defended)\n\n\n41peer-reviewed publications (journals, book chapters, international conferences)\n\n\n1reference book (ISTE–Wiley, 2017)\n\n\n13papers in CORE A/B conferences\n\n\n2best paper awards (ICIKS 2023, KES 2018)\n\n\n5PhD juries (4 as reviewer)",
+    "objectID": "fr/enseignement.html#conférences-invitées-et-tutoriels-sélection",
+    "href": "fr/enseignement.html#conférences-invitées-et-tutoriels-sélection",
+    "title": "Enseignement et responsabilités",
+    "section": "Conférences invitées et tutoriels (sélection)",
+    "text": "Conférences invitées et tutoriels (sélection)\n\nAdvanced Machine Learning: Ensemble, Active and Evolutionary Learning — laboratoire RISC, ENIT, Tunis, 2023.\nTrends to Scale Machine Learning Algorithms for Big Data Analytics — CUPS 2023, Tunis ; école thématique Microservices and Big Data Management, Nanterre, 2023.\nGenetic Programming as an Advanced Machine Learning Technique for Big Data Mining — Nanterre, 2019.",
     "crumbs": [
-      "EN",
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Sana Ben Hamida",
-    "section": "News",
-    "text": "News\n\nOctober 2026 — Coordination of the track AI as a lever for ecological resilience, IEEE AIDIST 2026 international conference, Gammarth, Tunisia, 29–31 October 2026; chair of session 1.\nApril 2026 — Houria Braikia defended her PhD on multi-paradigm machine learning for marine ecological quality (defence page).\n2026 — Our preprint Explainable AI for marine ecological quality prediction (hal-05046103) was recommended by Peer Community In Genomics.\n2025 — Start of the PhD of Soumaya Sabbehi on multimodal machine learning and knowledge graphs for Crohn’s disease (cotutelle Dauphine–PSL / École Polytechnique de Tunisie).",
-    "crumbs": [
-      "EN",
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Sana Ben Hamida",
-    "section": "Contact",
-    "text": "Contact\nsbenhami [at] parisnanterre.fr",
-    "crumbs": [
-      "EN",
-      "Home"
-    ]
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching & service",
-    "section": "",
-    "text": "More than 25 years of teaching, from bachelor to doctoral level, in initial and work-study programmes, for computer science and non-computer-science audiences.",
-    "crumbs": [
-      "EN",
-      "Teaching & service"
-    ]
-  },
-  {
-    "objectID": "teaching.html#doctoral-courses-dauphinepsl-doctoral-school",
-    "href": "teaching.html#doctoral-courses-dauphinepsl-doctoral-school",
-    "title": "Teaching & service",
-    "section": "Doctoral courses (Dauphine–PSL doctoral school)",
-    "text": "Doctoral courses (Dauphine–PSL doctoral school)\n\nEvolutionary Machine Learning (18 h): genetic programming for symbolic regression and interpretable classification, evolutionary clustering and community detection, scaling, evolutionary ensemble learning, feature selection and construction, hyperparameter optimization, neuroevolution.\nEvolutionary Algorithms for Optimization and Machine Learning (18 h, 2019).",
-    "crumbs": [
-      "EN",
-      "Teaching & service"
-    ]
-  },
-  {
-    "objectID": "teaching.html#current-teaching-université-paris-nanterre",
-    "href": "teaching.html#current-teaching-université-paris-nanterre",
-    "title": "Teaching & service",
-    "section": "Current teaching (Université Paris Nanterre)",
-    "text": "Current teaching (Université Paris Nanterre)\n\nMachine learning (M2 MIAGE, M2 D3S): regression, classification, clustering, ensemble learning, sampling, model selection.\nDatabases and NoSQL (L2 to M1): relational model, advanced SQL, query optimization, MongoDB, Neo4j, Cassandra.\nPython for data analysis (M1–M2 economics): NumPy, Pandas, visualization.\n\nAlso: Advanced Machine Learning II (in English, ESILV, 2024–2025); Advanced databases (M2 IASD, Dauphine–PSL, 2023–2026).",
-    "crumbs": [
-      "EN",
-      "Teaching & service"
-    ]
-  },
-  {
-    "objectID": "teaching.html#responsibilities",
-    "href": "teaching.html#responsibilities",
-    "title": "Teaching & service",
-    "section": "Responsibilities",
-    "text": "Responsibilities\n\nCo-director of the master’s programme IES–D3S (Data Science for Social Sciences), Université Paris Nanterre (since 2022).\nMember of the computer science discipline committee (section 27), Université Paris Nanterre (since 2017).\nVice-chair (2024) and member (2013, 2021) of recruitment committees.\nUniversity coordinator of the Digital Skills course (over 2,000 students per semester, 2015–2020).\nFormer head of the Applied Computer Science department, ESTI Tunis (2004–2008).",
-    "crumbs": [
-      "EN",
-      "Teaching & service"
-    ]
-  },
-  {
-    "objectID": "teaching.html#scientific-community",
-    "href": "teaching.html#scientific-community",
-    "title": "Teaching & service",
-    "section": "Scientific community",
-    "text": "Scientific community\n\nProgram committees: ICIKS (2021, 2023, 2025), Artificial Evolution 2017, PPSN 2002 and 2004.\nReviewer for: Applied Intelligence (Springer, 7 reviews since 2021), SoftwareX (Elsevier, 2026), Expert Systems with Applications (Elsevier, since 2020), Journal of Multi-Criteria Decision Analysis (Wiley, since 2024); formerly Evolutionary Computation (MIT Press) and Quantitative Finance. Verified reviews: ORCID.\nEvent organization: track coordinator and session chair, IEEE AIDIST 2026 (Gammarth, Tunisia, 2026); track chair, ICIKS 2023.\nScientific committee of the research consortium BleuAct — Le bleu en action : pour une production halio-alimentaire éco-innovante et durable (CDR2024ES01, Tunisia), since 2025.\nOutreach: 1 scientifique – 1 classe : Chiche ! programme (since 2022).",
-    "crumbs": [
-      "EN",
-      "Teaching & service"
-    ]
-  },
-  {
-    "objectID": "teaching.html#invited-talks-and-tutorials-selection",
-    "href": "teaching.html#invited-talks-and-tutorials-selection",
-    "title": "Teaching & service",
-    "section": "Invited talks and tutorials (selection)",
-    "text": "Invited talks and tutorials (selection)\n\nAdvanced Machine Learning: Ensemble, Active and Evolutionary Learning — RISC laboratory, ENIT, Tunis, 2023.\nTrends to Scale Machine Learning Algorithms for Big Data Analytics — CUPS 2023 PhD Symposium, Tunis; Microservices and Big Data Management school, Nanterre, 2023.\nGenetic Programming as an Advanced Machine Learning Technique for Big Data Mining — Nanterre, 2019.",
-    "crumbs": [
-      "EN",
-      "Teaching & service"
+      "FR",
+      "Enseignement et responsabilités"
     ]
   }
 ]
