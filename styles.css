@@ -1,0 +1,15 @@
+/* Sober academic style */
+:root { --accent: #1F4E79; --accent2: #2E75B6; }
+body { font-size: 1.02rem; line-height: 1.6; }
+h1, h2, h3 { color: var(--accent); font-weight: 600; }
+h2 { border-bottom: 1px solid #dde5ee; padding-bottom: .2rem; margin-top: 2rem; }
+a { color: var(--accent2); }
+.profile-links a { margin-right: 1rem; white-space: nowrap; }
+.keyfigures { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: .6rem; margin: 1rem 0; }
+.keyfigures div { background: #EEF3F8; border-radius: 4px; padding: .5rem .8rem; font-size: .92rem; }
+.keyfigures b { display: block; font-size: 1.35rem; color: var(--accent); }
+.award { background: var(--accent); color: #fff; font-size: .75rem; padding: 1px 6px; border-radius: 3px; margin-left: .3rem; }
+.pubs li { margin-bottom: .45rem; }
+.muted { color: #5a5a5a; font-size: .92rem; }
+.profile-photo { float: right; width: 150px; margin: 0 0 1rem 1.5rem; border-radius: 4px; }
+@media (max-width: 600px) { .profile-photo { float: none; display: block; margin: 0 auto 1rem; } }
